@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Parking Guide</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="page-header">
+      <div class="page-header-inner">
+        <img
+          src="IMG_3180.jpeg"
+          alt="Parking"
+          class="brand-logo"
+        />
+        <div class="search-wrapper">
+          <input
+            id="venueSearch"
+            type="text"
+            placeholder="Search a venue..."
+            autocomplete="off"
+          />
+          <div id="searchResults" class="search-results"></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section id="infoPanel" class="info-panel info-panel--empty">
+        <!-- Static title + description -->
+        <div class="info-empty">
+          <h2>Review Parking Options Ahead of Time</h2>
+          <p>
+            Use the search bar above to look up a venue. You’ll see parking notes, any key lots,
+            rideshare tips, and a link to the full parking page.
+          </p>
+        </div>
+
+        <!-- Venue content (hidden until a venue is chosen) -->
+        <div class="info-content" hidden>
+          <header class="info-header">
+            <div>
+              <h2 id="venueName"></h2>
+              <p id="venueLocation" class="venue-location"></p>
+            </div>
+          </header>
+
+          <div class="info-cards">
+            <!-- Overview -->
+            <article class="info-card">
+              <h3>Parking Overview</h3>
+              <p id="parkingNote" class="card-body"></p>
+            </article>
+
+            <!-- Rideshare -->
+            <article class="info-card" id="rideshareCard" hidden>
+              <h3>Rideshare Zones</h3>
+              <p id="rideshareText" class="card-body"></p>
+            </article>
+
+            <!-- Lots -->
+            <article class="info-card" id="lotsCard" hidden>
+              <h3>Key Lots</h3>
+              <ul id="lotsList" class="bullet-list"></ul>
+            </article>
+
+            <!-- Official link -->
+            <article class="info-card" id="officialCard" hidden>
+              <h3>Full Parking Info</h3>
+              <p class="card-body">
+                Some events may have different rules. Always confirm with the official parking page.
+              </p>
+              <a
+                id="parkingLink"
+                class="primary-btn"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View Parking Details
+              </a>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
