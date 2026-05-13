@@ -4598,4 +4598,112 @@
     "city": "Black Rock Desert",
     "state": "NV",
     "venueName": "Burning Man",
-    "guideUrl": "https://concerto-
+    "guideUrl": "https://concerto-parking.netlify.app/burningman"
+  },
+  "electric_zoo": {
+    "updated": "",
+    "officialParkingUrl": "https://centralparkzoo.com/map",
+    "note": "",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [],
+    "city": "New York",
+    "state": "NY",
+    "venueName": "Electric Zoo",
+    "guideUrl": "https://concerto-parking.netlify.app/electriczoo"
+  },
+  "riot_fest": {
+    "updated": "",
+    "officialParkingUrl": "https://www.tasteofrivernorth.com/",
+    "note": "No specific parking options, pricing, or tips are mentioned on the provided page. Attendees are encouraged to check local parking facilities or use public transportation.",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [],
+    "city": "Chicago",
+    "state": "IL",
+    "venueName": "Riot Fest",
+    "guideUrl": "https://concerto-parking.netlify.app/riotfest"
+  },
+  "essence_festival_of_culture": {
+    "updated": "",
+    "officialParkingUrl": "https://mccno.com/visitors/getting-here/",
+    "note": "Ample parking is available at the Convention Center for a daily fee, but overnight parking is prohibited. ADA parking is available, and specific needs can be addressed via email.",
+    "rideshare": "If arriving or departing by taxi or rideshare, use the designated Taxi/Rideshare Zone.",
+    "lots": [],
+    "city": "New Orleans",
+    "state": "LA",
+    "venueName": "Essence Festival of Culture",
+    "guideUrl": "https://concerto-parking.netlify.app/essencefestivalofculture"
+  },
+  "sxsw_music_film_interactive": {
+    "updated": "",
+    "officialParkingUrl": "https://www.sxsw.com/hotels/getting-around/",
+    "note": "Driving and parking in downtown Austin during SXSW can be expensive and time-consuming due to street closures and increased traffic. It is recommended to use alternative transportation options like walking, shuttles, or rideshares.",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [],
+    "city": "Austin",
+    "state": "TX",
+    "venueName": "SXSW (Music, Film & Interactive)",
+    "guideUrl": "https://concerto-parking.netlify.app/sxswmusicfilminteractive"
+  },
+  "cma_fest": {
+    "updated": "",
+    "officialParkingUrl": "https://cmafest.com/transportation/",
+    "note": "Festival organizers encourage the use of rideshare, SpotHero, or public parking options. Reserve parking in advance through SpotHero for convenience and affordability.",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [],
+    "city": "Nashville",
+    "state": "TN",
+    "venueName": "CMA Fest",
+    "guideUrl": "https://concerto-parking.netlify.app/cmafest"
+  },
+  "made_in_america": {
+    "updated": "",
+    "officialParkingUrl": "https://constitutioncenter.org/museum/visit/directions",
+    "note": "Parking is available at the National Constitution Center's parking garage, accessible from Race Street. Pricing details are not provided, so checking on arrival is recommended.",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [
+      "National Constitution Center parking garage"
+    ],
+    "city": "Philadelphia",
+    "state": "PA",
+    "venueName": "Made in America",
+    "guideUrl": "https://concerto-parking.netlify.app/madeinamerica"
+  },
+  "radio_city_music_hall": {
+    "updated": "",
+    "officialParkingUrl": "https://www.msg.com/plan-your-visit/visit-madison-square-garden",
+    "note": "",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [],
+    "city": "New York",
+    "state": "NY",
+    "venueName": "Radio City Music Hall",
+    "guideUrl": "https://concerto-parking.netlify.app/radiocitymusichall"
+  },
+  "the_gorge_amphitheatre": {
+    "updated": "",
+    "officialParkingUrl": "https://www.gorgeamphitheatre.com/visit",
+    "note": "General admission parking is included with your ticket. For easier entry and exit, consider upgrading to Reserved Parking, Star Parking, or Star Parking Plus. Arrive early to avoid heavy traffic and long wait times.",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [
+      "Oasis Campers",
+      "The Grove RV Park",
+      "Day Parking",
+      "Star Parking",
+      "Star Plus Parking",
+      "Accessible Parking",
+      "Big Rig Campers",
+      "Plaza Parking",
+      "Tent Only",
+      "RV Camping",
+      "The Terraces",
+      "Gold Campers",
+      "Standard",
+      "Terrace",
+      "Premier Campers"
+    ],
+    "city": "George",
+    "state": "WA",
+    "venueName": "The Gorge Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/thegorgeamphitheatre"
+  }
+}
