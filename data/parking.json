@@ -9,7 +9,8 @@
     ],
     "city": "Dublin",
     "state": "",
-    "venueName": "3Arena"
+    "venueName": "3Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/3arena"
   },
   "713_music_hall": {
     "updated": "",
@@ -19,7 +20,8 @@
     "lots": [],
     "city": "Houston",
     "state": "TX",
-    "venueName": "713 Music Hall"
+    "venueName": "713 Music Hall",
+    "guideUrl": "https://concerto-parking.netlify.app/713musichall"
   },
   "accor_arena": {
     "updated": "",
@@ -32,7 +34,8 @@
     ],
     "city": "Paris",
     "state": "",
-    "venueName": "Accor Arena"
+    "venueName": "Accor Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/accorarena"
   },
   "acl_live_at_the_moody_theater": {
     "updated": "",
@@ -42,7 +45,8 @@
     "lots": [],
     "city": "Austin",
     "state": "TX",
-    "venueName": "ACL Live at The Moody Theater"
+    "venueName": "ACL Live at The Moody Theater",
+    "guideUrl": "https://concerto-parking.netlify.app/aclliveatthemoodytheater"
   },
   "acrisure_arena_at_greater_palm_springs": {
     "updated": "",
@@ -52,7 +56,8 @@
     "lots": [],
     "city": "Palm Desert",
     "state": "CA",
-    "venueName": "Acrisure Arena at Greater Palm Springs"
+    "venueName": "Acrisure Arena at Greater Palm Springs",
+    "guideUrl": "https://concerto-parking.netlify.app/acrisurearenaatgreaterpalmsprings"
   },
   "acrisure_stadium": {
     "updated": "",
@@ -92,7 +97,8 @@
     ],
     "city": "Pittsburgh",
     "state": "PA",
-    "venueName": "Acrisure Stadium"
+    "venueName": "Acrisure Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/acrisurestadium"
   },
   "addition_financial_arena": {
     "updated": "",
@@ -108,7 +114,8 @@
     ],
     "city": "Orlando",
     "state": "FL",
-    "venueName": "Addition Financial Arena"
+    "venueName": "Addition Financial Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/additionfinancialarena"
   },
   "alamodome": {
     "updated": "",
@@ -118,7 +125,8 @@
     "lots": [],
     "city": "San Antonio",
     "state": "TX",
-    "venueName": "Alamodome"
+    "venueName": "Alamodome",
+    "guideUrl": "https://concerto-parking.netlify.app/alamodome"
   },
   "albertsons_stadium": {
     "updated": "",
@@ -128,7 +136,8 @@
     "lots": [],
     "city": "Boise",
     "state": "ID",
-    "venueName": "Albertsons Stadium"
+    "venueName": "Albertsons Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/albertsonsstadium"
   },
   "allegiant_stadium": {
     "updated": "",
@@ -140,7 +149,8 @@
     ],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Allegiant Stadium"
+    "venueName": "Allegiant Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/allegiantstadium"
   },
   "allas_live": {
     "updated": "",
@@ -150,7 +160,8 @@
     "lots": [],
     "city": "Helsinki",
     "state": "",
-    "venueName": "Allas Live"
+    "venueName": "Allas Live",
+    "guideUrl": "https://concerto-parking.netlify.app/allaslive"
   },
   "allstate_arena": {
     "updated": "",
@@ -160,7 +171,8 @@
     "lots": [],
     "city": "Rosemont",
     "state": "IL",
-    "venueName": "Allstate Arena"
+    "venueName": "Allstate Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/allstatearena"
   },
   "amerant_bank_arena": {
     "updated": "",
@@ -180,7 +192,8 @@
     ],
     "city": "Sunrise",
     "state": "FL",
-    "venueName": "Amerant Bank Arena"
+    "venueName": "Amerant Bank Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/amerantbankarena"
   },
   "american_airlines_center": {
     "updated": "",
@@ -190,7 +203,8 @@
     "lots": [],
     "city": "Dallas",
     "state": "TX",
-    "venueName": "American Airlines Center"
+    "venueName": "American Airlines Center",
+    "guideUrl": "https://concerto-parking.netlify.app/americanairlinescenter"
   },
   "american_family_insurance_amphitheater": {
     "updated": "",
@@ -200,7 +214,8 @@
     "lots": [],
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "American Family Insurance Amphitheater"
+    "venueName": "American Family Insurance Amphitheater",
+    "guideUrl": "https://concerto-parking.netlify.app/americanfamilyinsuranceamphitheater"
   },
   "american_family_field": {
     "updated": "",
@@ -210,7 +225,8 @@
     "lots": [],
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "American Family Field"
+    "venueName": "American Family Field",
+    "guideUrl": "https://concerto-parking.netlify.app/americanfamilyfield"
   },
   "amalie_arena": {
     "updated": "",
@@ -232,7 +248,8 @@
     ],
     "city": "Tampa",
     "state": "FL",
-    "venueName": "Amalie Arena"
+    "venueName": "Amalie Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/amaliearena"
   },
   "amica_mutual_pavilion": {
     "updated": "",
@@ -245,7 +262,8 @@
     ],
     "city": "Providence",
     "state": "RI",
-    "venueName": "Amica Mutual Pavilion"
+    "venueName": "Amica Mutual Pavilion",
+    "guideUrl": "https://concerto-parking.netlify.app/amicamutualpavilion"
   },
   "anfiteatro_degli_scavi": {
     "updated": "29 May 2018",
@@ -255,7 +273,8 @@
     "lots": [],
     "city": "Pompei",
     "state": "",
-    "venueName": "Anfiteatro degli Scavi"
+    "venueName": "Anfiteatro degli Scavi",
+    "guideUrl": "https://concerto-parking.netlify.app/anfiteatrodegliscavi"
   },
   "angel_stadium": {
     "updated": "",
@@ -274,7 +293,8 @@
     ],
     "city": "Anaheim",
     "state": "CA",
-    "venueName": "Angel Stadium"
+    "venueName": "Angel Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/angelstadium"
   },
   "ao_arena": {
     "updated": "",
@@ -286,7 +306,8 @@
     ],
     "city": "Manchester",
     "state": "",
-    "venueName": "AO Arena"
+    "venueName": "AO Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/aoarena"
   },
   "arizona_financial_theatre": {
     "updated": "",
@@ -296,7 +317,8 @@
     "lots": [],
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Arizona Financial Theatre"
+    "venueName": "Arizona Financial Theatre",
+    "guideUrl": "https://concerto-parking.netlify.app/arizonafinancialtheatre"
   },
   "att_stadium": {
     "updated": "",
@@ -322,7 +344,8 @@
     ],
     "city": "Arlington",
     "state": "TX",
-    "venueName": "AT&T Stadium"
+    "venueName": "AT&T Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/attstadium"
   },
   "bmo_pavilion": {
     "updated": "",
@@ -332,7 +355,8 @@
     "lots": [],
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "BMO Pavilion"
+    "venueName": "BMO Pavilion",
+    "guideUrl": "https://concerto-parking.netlify.app/bmopavilion"
   },
   "ball_arena": {
     "updated": "",
@@ -349,7 +373,8 @@
     ],
     "city": "Denver",
     "state": "CO",
-    "venueName": "Ball Arena"
+    "venueName": "Ball Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/ballarena"
   },
   "bank_of_america_stadium": {
     "updated": "",
@@ -359,7 +384,8 @@
     "lots": [],
     "city": "Charlotte",
     "state": "NC",
-    "venueName": "Bank of America Stadium"
+    "venueName": "Bank of America Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/bankofamericastadium"
   },
   "barclays_center": {
     "updated": "",
@@ -369,7 +395,8 @@
     "lots": [],
     "city": "Brooklyn",
     "state": "NY",
-    "venueName": "Barclays Center"
+    "venueName": "Barclays Center",
+    "guideUrl": "https://concerto-parking.netlify.app/barclayscenter"
   },
   "barclays_arena": {
     "updated": "",
@@ -385,7 +412,8 @@
     ],
     "city": "Hamburg",
     "state": "",
-    "venueName": "Barclays Arena"
+    "venueName": "Barclays Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/barclaysarena"
   },
   "bc_place": {
     "updated": "",
@@ -395,7 +423,8 @@
     "lots": [],
     "city": "Vancouver",
     "state": "BC",
-    "venueName": "BC Place"
+    "venueName": "BC Place",
+    "guideUrl": "https://concerto-parking.netlify.app/bcplace"
   },
   "bell_centre": {
     "updated": "",
@@ -405,7 +434,8 @@
     "lots": [],
     "city": "Montreal",
     "state": "QC",
-    "venueName": "Bell Centre"
+    "venueName": "Bell Centre",
+    "guideUrl": "https://concerto-parking.netlify.app/bellcentre"
   },
   "bellco_theatre": {
     "updated": "",
@@ -415,7 +445,8 @@
     "lots": [],
     "city": "Denver",
     "state": "CO",
-    "venueName": "Bellco Theatre"
+    "venueName": "Bellco Theatre",
+    "guideUrl": "https://concerto-parking.netlify.app/bellcotheatre"
   },
   "benchmark_international_arena": {
     "updated": "",
@@ -437,7 +468,8 @@
     ],
     "city": "Tampa",
     "state": "FL",
-    "venueName": "Benchmark International Arena"
+    "venueName": "Benchmark International Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/benchmarkinternationalarena"
   },
   "bethel_woods_center_for_the_arts": {
     "updated": "",
@@ -450,7 +482,8 @@
     ],
     "city": "Bethel",
     "state": "NY",
-    "venueName": "Bethel Woods Center for the Arts"
+    "venueName": "Bethel Woods Center for the Arts",
+    "guideUrl": "https://concerto-parking.netlify.app/bethelwoodscenterforthearts"
   },
   "bill_graham_civic_auditorium": {
     "updated": "",
@@ -462,7 +495,8 @@
     ],
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Bill Graham Civic Auditorium"
+    "venueName": "Bill Graham Civic Auditorium",
+    "guideUrl": "https://concerto-parking.netlify.app/billgrahamcivicauditorium"
   },
   "bjcc_arena": {
     "updated": "",
@@ -491,7 +525,8 @@
     ],
     "city": "Birmingham",
     "state": "AL",
-    "venueName": "BJCC Arena"
+    "venueName": "BJCC Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/bjccarena"
   },
   "blue_cross_arena": {
     "updated": "",
@@ -509,7 +544,8 @@
     ],
     "city": "Rochester",
     "state": "NY",
-    "venueName": "Blue Cross Arena"
+    "venueName": "Blue Cross Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/bluecrossarena"
   },
   "bobby_dodd_stadium_at_hyundai_field": {
     "updated": "",
@@ -519,7 +555,8 @@
     "lots": [],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Bobby Dodd Stadium at Hyundai Field"
+    "venueName": "Bobby Dodd Stadium at Hyundai Field",
+    "guideUrl": "https://concerto-parking.netlify.app/bobbydoddstadiumathyundaifield"
   },
   "bok_center": {
     "updated": "",
@@ -529,7 +566,8 @@
     "lots": [],
     "city": "Tulsa",
     "state": "OK",
-    "venueName": "BOK Center"
+    "venueName": "BOK Center",
+    "guideUrl": "https://concerto-parking.netlify.app/bokcenter"
   },
   "bp_pulse_live": {
     "updated": "",
@@ -539,7 +577,8 @@
     "lots": [],
     "city": "Birmingham",
     "state": "",
-    "venueName": "bp pulse Live"
+    "venueName": "bp pulse Live",
+    "guideUrl": "https://concerto-parking.netlify.app/bppulselive"
   },
   "bridgestone_arena": {
     "updated": "",
@@ -558,7 +597,8 @@
     ],
     "city": "Nashville",
     "state": "TN",
-    "venueName": "Bridgestone Arena"
+    "venueName": "Bridgestone Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/bridgestonearena"
   },
   "broadview_stage_at_spac": {
     "updated": "",
@@ -570,12 +610,13 @@
     ],
     "city": "Saratoga Springs",
     "state": "NY",
-    "venueName": "Broadview Stage at SPAC"
+    "venueName": "Broadview Stage at SPAC",
+    "guideUrl": "https://concerto-parking.netlify.app/broadviewstageatspac"
   },
   "brighton_centre": {
     "updated": "",
     "officialParkingUrl": "https://www.justpark.com/uk/parking/brighton/",
-    "note": "Parking in Brighton is available from \u00a34.5 per day with over 2,281 reservable spaces. Options include local driveways and car parks like Sainsbury's Brighton, New England St Car Park, which is noted for its safety and convenience. It's recommended to use Google Maps for accurate directions.",
+    "note": "Parking in Brighton is available from £4.5 per day with over 2,281 reservable spaces. Options include local driveways and car parks like Sainsbury's Brighton, New England St Car Park, which is noted for its safety and convenience. It's recommended to use Google Maps for accurate directions.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "Sainsbury's Brighton, New England St Car Park",
@@ -583,7 +624,8 @@
     ],
     "city": "Brighton",
     "state": "",
-    "venueName": "Brighton Centre"
+    "venueName": "Brighton Centre",
+    "guideUrl": "https://concerto-parking.netlify.app/brightoncentre"
   },
   "brooklyn_paramount": {
     "updated": "",
@@ -593,7 +635,8 @@
     "lots": [],
     "city": "Brooklyn",
     "state": "NY",
-    "venueName": "Brooklyn Paramount"
+    "venueName": "Brooklyn Paramount",
+    "guideUrl": "https://concerto-parking.netlify.app/brooklynparamount"
   },
   "busch_stadium": {
     "updated": "",
@@ -603,7 +646,8 @@
     "lots": [],
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "Busch Stadium"
+    "venueName": "Busch Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/buschstadium"
   },
   "byline_bank_aragon_ballroom": {
     "updated": "",
@@ -613,7 +657,8 @@
     "lots": [],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Byline Bank Aragon Ballroom"
+    "venueName": "Byline Bank Aragon Ballroom",
+    "guideUrl": "https://concerto-parking.netlify.app/bylinebankaragonballroom"
   },
   "cable_dahmer_arena": {
     "updated": "",
@@ -623,7 +668,8 @@
     "lots": [],
     "city": "Independence",
     "state": "MO",
-    "venueName": "Cable Dahmer Arena"
+    "venueName": "Cable Dahmer Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/cabledahmerarena"
   },
   "caesars_superdome": {
     "updated": "",
@@ -643,7 +689,8 @@
     ],
     "city": "New Orleans",
     "state": "LA",
-    "venueName": "Caesars Superdome"
+    "venueName": "Caesars Superdome",
+    "guideUrl": "https://concerto-parking.netlify.app/caesarssuperdome"
   },
   "camp_randall_stadium": {
     "updated": "",
@@ -653,7 +700,8 @@
     "lots": [],
     "city": "Madison",
     "state": "WI",
-    "venueName": "Camp Randall Stadium"
+    "venueName": "Camp Randall Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/camprandallstadium"
   },
   "canada_life_centre": {
     "updated": "",
@@ -663,7 +711,8 @@
     "lots": [],
     "city": "Winnipeg",
     "state": "MB",
-    "venueName": "Canada Life Centre"
+    "venueName": "Canada Life Centre",
+    "guideUrl": "https://concerto-parking.netlify.app/canadalifecentre"
   },
   "canadian_tire_centre": {
     "updated": "",
@@ -682,7 +731,8 @@
     ],
     "city": "Ottawa",
     "state": "ON",
-    "venueName": "Canadian Tire Centre"
+    "venueName": "Canadian Tire Centre",
+    "guideUrl": "https://concerto-parking.netlify.app/canadiantirecentre"
   },
   "capital_one_arena": {
     "updated": "",
@@ -692,7 +742,8 @@
     "lots": [],
     "city": "Washington",
     "state": "DC",
-    "venueName": "Capital One Arena"
+    "venueName": "Capital One Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/capitalonearena"
   },
   "center_stage_theater": {
     "updated": "",
@@ -705,7 +756,8 @@
     ],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Center Stage Theater"
+    "venueName": "Center Stage Theater",
+    "guideUrl": "https://concerto-parking.netlify.app/centerstagetheater"
   },
   "cfg_bank_arena": {
     "updated": "",
@@ -715,7 +767,8 @@
     "lots": [],
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "CFG Bank Arena"
+    "venueName": "CFG Bank Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/cfgbankarena"
   },
   "chaifetz_arena": {
     "updated": "",
@@ -729,7 +782,8 @@
     ],
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "Chaifetz Arena"
+    "venueName": "Chaifetz Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/chaifetzarena"
   },
   "chase_center": {
     "updated": "",
@@ -739,12 +793,13 @@
     "lots": [],
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Chase Center"
+    "venueName": "Chase Center",
+    "guideUrl": "https://concerto-parking.netlify.app/chasecenter"
   },
   "chase_field": {
     "updated": "",
     "officialParkingUrl": "https://www.mlb.com/mets/ballpark/transportation/driving-parking",
-    "note": "Parking options include discounted offsite parking at Skyview Mall and various lots around Citi Field. Prices range from $10-20 for offsite parking and $40-120 for onsite parking depending on the event. Cashless payments are required.",
+    "note": "Parking options include discounted offsite parking at Skyview Mall and various lots at Citi Field. Prices range from $10-20 for offsite parking and $40-120 for onsite parking depending on the event. Cashless payments are required.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "Lot B",
@@ -758,7 +813,8 @@
     ],
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Chase Field"
+    "venueName": "Chase Field",
+    "guideUrl": "https://concerto-parking.netlify.app/chasefield"
   },
   "chi_health_center": {
     "updated": "",
@@ -768,7 +824,8 @@
     "lots": [],
     "city": "Omaha",
     "state": "NE",
-    "venueName": "CHI Health Center"
+    "venueName": "CHI Health Center",
+    "guideUrl": "https://concerto-parking.netlify.app/chihealthcenter"
   },
   "citi_field": {
     "updated": "",
@@ -787,7 +844,8 @@
     ],
     "city": "Queens",
     "state": "NY",
-    "venueName": "Citi Field"
+    "venueName": "Citi Field",
+    "guideUrl": "https://concerto-parking.netlify.app/citifield"
   },
   "citizens_bank_park": {
     "updated": "",
@@ -806,7 +864,8 @@
     ],
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Citizens Bank Park"
+    "venueName": "Citizens Bank Park",
+    "guideUrl": "https://concerto-parking.netlify.app/citizensbankpark"
   },
   "citizens_house_of_blues": {
     "updated": "",
@@ -816,7 +875,8 @@
     "lots": [],
     "city": "Boston",
     "state": "MA",
-    "venueName": "Citizens House of Blues"
+    "venueName": "Citizens House of Blues",
+    "guideUrl": "https://concerto-parking.netlify.app/citizenshouseofblues"
   },
   "climate_pledge_arena": {
     "updated": "",
@@ -830,7 +890,8 @@
     ],
     "city": "Seattle",
     "state": "WA",
-    "venueName": "Climate Pledge Arena"
+    "venueName": "Climate Pledge Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/climatepledgearena"
   },
   "cocacola_coliseum": {
     "updated": "",
@@ -844,7 +905,8 @@
     ],
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Coca-Cola Coliseum"
+    "venueName": "Coca-Cola Coliseum",
+    "guideUrl": "https://concerto-parking.netlify.app/cocacolacoliseum"
   },
   "cocacola_roxy": {
     "updated": "",
@@ -857,7 +919,8 @@
     ],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Coca-Cola Roxy"
+    "venueName": "Coca-Cola Roxy",
+    "guideUrl": "https://concerto-parking.netlify.app/cocacolaroxy"
   },
   "colonial_life_arena": {
     "updated": "",
@@ -867,7 +930,8 @@
     "lots": [],
     "city": "Columbia",
     "state": "SC",
-    "venueName": "Colonial Life Arena"
+    "venueName": "Colonial Life Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/coloniallifearena"
   },
   "comerica_park": {
     "updated": "",
@@ -881,7 +945,8 @@
     ],
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Comerica Park"
+    "venueName": "Comerica Park",
+    "guideUrl": "https://concerto-parking.netlify.app/comericapark"
   },
   "commonwealth_stadium": {
     "updated": "",
@@ -891,7 +956,8 @@
     "lots": [],
     "city": "Edmonton",
     "state": "AB",
-    "venueName": "Commonwealth Stadium"
+    "venueName": "Commonwealth Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/commonwealthstadium"
   },
   "coop_live": {
     "updated": "",
@@ -901,7 +967,8 @@
     "lots": [],
     "city": "Manchester",
     "state": "",
-    "venueName": "Co-op Live"
+    "venueName": "Co-op Live",
+    "guideUrl": "https://concerto-parking.netlify.app/cooplive"
   },
   "coors_field": {
     "updated": "",
@@ -920,7 +987,8 @@
     ],
     "city": "Denver",
     "state": "CO",
-    "venueName": "Coors Field"
+    "venueName": "Coors Field",
+    "guideUrl": "https://concerto-parking.netlify.app/coorsfield"
   },
   "credit_union_1_amphitheatre": {
     "updated": "",
@@ -930,7 +998,8 @@
     "lots": [],
     "city": "Tinley Park",
     "state": "IL",
-    "venueName": "Credit Union 1 Amphitheatre"
+    "venueName": "Credit Union 1 Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/creditunion1amphitheatre"
   },
   "cross_insurance_arena": {
     "updated": "",
@@ -942,7 +1011,8 @@
     ],
     "city": "Portland",
     "state": "ME",
-    "venueName": "Cross Insurance Arena"
+    "venueName": "Cross Insurance Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/crossinsurancearena"
   },
   "cross_insurance_center": {
     "updated": "",
@@ -956,7 +1026,8 @@
     ],
     "city": "Bangor",
     "state": "ME",
-    "venueName": "Cross Insurance Center"
+    "venueName": "Cross Insurance Center",
+    "guideUrl": "https://concerto-parking.netlify.app/crossinsurancecenter"
   },
   "cryptocom_arena": {
     "updated": "",
@@ -976,7 +1047,8 @@
     ],
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "Crypto.com Arena"
+    "venueName": "Crypto.com Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/cryptocomarena"
   },
   "cure_insurance_arena": {
     "updated": "",
@@ -992,7 +1064,8 @@
     ],
     "city": "Trenton",
     "state": "NJ",
-    "venueName": "CURE Insurance Arena"
+    "venueName": "CURE Insurance Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/cureinsurancearena"
   },
   "daikin_park": {
     "updated": "",
@@ -1011,7 +1084,8 @@
     ],
     "city": "Houston",
     "state": "TX",
-    "venueName": "Daikin Park"
+    "venueName": "Daikin Park",
+    "guideUrl": "https://concerto-parking.netlify.app/daikinpark"
   },
   "delta_center": {
     "updated": "",
@@ -1030,7 +1104,8 @@
     ],
     "city": "Salt Lake City",
     "state": "UT",
-    "venueName": "Delta Center"
+    "venueName": "Delta Center",
+    "guideUrl": "https://concerto-parking.netlify.app/deltacenter"
   },
   "desert_diamond_arena": {
     "updated": "",
@@ -1049,7 +1124,8 @@
     ],
     "city": "Glendale",
     "state": "AZ",
-    "venueName": "Desert Diamond Arena"
+    "venueName": "Desert Diamond Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/desertdiamondarena"
   },
   "dickies_arena": {
     "updated": "",
@@ -1059,7 +1135,8 @@
     "lots": [],
     "city": "Fort Worth",
     "state": "TX",
-    "venueName": "Dickies Arena"
+    "venueName": "Dickies Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/dickiesarena"
   },
   "dodger_stadium": {
     "updated": "",
@@ -1078,7 +1155,8 @@
     ],
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "Dodger Stadium"
+    "venueName": "Dodger Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/dodgerstadium"
   },
   "dos_equis_pavilion": {
     "updated": "",
@@ -1093,7 +1171,8 @@
     ],
     "city": "Dallas",
     "state": "TX",
-    "venueName": "Dos Equis Pavilion"
+    "venueName": "Dos Equis Pavilion",
+    "guideUrl": "https://concerto-parking.netlify.app/dosequispavilion"
   },
   "eaglebank_arena": {
     "updated": "",
@@ -1103,7 +1182,8 @@
     "lots": [],
     "city": "Fairfax",
     "state": "VA",
-    "venueName": "EagleBank Arena"
+    "venueName": "EagleBank Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/eaglebankarena"
   },
   "empower_federal_credit_union_amphitheater": {
     "updated": "",
@@ -1113,7 +1193,8 @@
     "lots": [],
     "city": "Syracuse",
     "state": "NY",
-    "venueName": "Empower Federal Credit Union Amphitheater"
+    "venueName": "Empower Federal Credit Union Amphitheater",
+    "guideUrl": "https://concerto-parking.netlify.app/empowerfederalcreditunionamphitheater"
   },
   "empower_field_at_mile_high": {
     "updated": "",
@@ -1129,7 +1210,8 @@
     ],
     "city": "Denver",
     "state": "CO",
-    "venueName": "Empower Field at Mile High"
+    "venueName": "Empower Field at Mile High",
+    "guideUrl": "https://concerto-parking.netlify.app/empowerfieldatmilehigh"
   },
   "enterprise_center": {
     "updated": "",
@@ -1141,17 +1223,19 @@
     ],
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "Enterprise Center"
+    "venueName": "Enterprise Center",
+    "guideUrl": "https://concerto-parking.netlify.app/enterprisecenter"
   },
   "estadio_gnp_seguros": {
     "updated": "",
     "officialParkingUrl": "https://www.estadiognpseguros.com/como-llegar",
-    "note": "The Estadio GNP Seguros offers parking with access through gates 7, 8, 9, and 15 of the Aut\u00f3dromo Hermanos Rodr\u00edguez and Ciudad Deportiva Magdalena Mixhuca. Access points may vary depending on the event configuration and location.",
+    "note": "The Estadio GNP Seguros offers parking with access through gates 7, 8, 9, and 15 of the Autódromo Hermanos Rodríguez and Ciudad Deportiva Magdalena Mixhuca. Access points may vary depending on the event configuration and location.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [],
     "city": "Mexico City",
     "state": "",
-    "venueName": "Estadio GNP Seguros"
+    "venueName": "Estadio GNP Seguros",
+    "guideUrl": "https://concerto-parking.netlify.app/estadiognpseguros"
   },
   "eventim_apollo": {
     "updated": "",
@@ -1161,7 +1245,8 @@
     "lots": [],
     "city": "London",
     "state": "",
-    "venueName": "Eventim Apollo"
+    "venueName": "Eventim Apollo",
+    "guideUrl": "https://concerto-parking.netlify.app/eventimapollo"
   },
   "everbank_stadium": {
     "updated": "",
@@ -1189,7 +1274,8 @@
     ],
     "city": "Jacksonville",
     "state": "FL",
-    "venueName": "EverBank Stadium"
+    "venueName": "EverBank Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/everbankstadium"
   },
   "falcon_stadium": {
     "updated": "",
@@ -1199,7 +1285,8 @@
     "lots": [],
     "city": "Air Force Academy",
     "state": "CO",
-    "venueName": "Falcon Stadium"
+    "venueName": "Falcon Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/falconstadium"
   },
   "fargodome": {
     "updated": "",
@@ -1213,7 +1300,8 @@
     ],
     "city": "Fargo",
     "state": "ND",
-    "venueName": "Fargodome"
+    "venueName": "Fargodome",
+    "guideUrl": "https://concerto-parking.netlify.app/fargodome"
   },
   "fedexforum": {
     "updated": "",
@@ -1225,7 +1313,8 @@
     ],
     "city": "Memphis",
     "state": "TN",
-    "venueName": "FedExForum"
+    "venueName": "FedExForum",
+    "guideUrl": "https://concerto-parking.netlify.app/fedexforum"
   },
   "fenway_park": {
     "updated": "",
@@ -1244,7 +1333,8 @@
     ],
     "city": "Boston",
     "state": "MA",
-    "venueName": "Fenway Park"
+    "venueName": "Fenway Park",
+    "guideUrl": "https://concerto-parking.netlify.app/fenwaypark"
   },
   "festhalle": {
     "updated": "",
@@ -1254,7 +1344,8 @@
     "lots": [],
     "city": "Frankfurt am Main",
     "state": "",
-    "venueName": "Festhalle"
+    "venueName": "Festhalle",
+    "guideUrl": "https://concerto-parking.netlify.app/festhalle"
   },
   "fillmore_minneapolis_presented_by_affinity_plus": {
     "updated": "",
@@ -1264,7 +1355,8 @@
     "lots": [],
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "Fillmore Minneapolis presented by Affinity Plus"
+    "venueName": "Fillmore Minneapolis presented by Affinity Plus",
+    "guideUrl": "https://concerto-parking.netlify.app/fillmoreminneapolispresentedbyaffinityplus"
   },
   "fishers_event_center": {
     "updated": "",
@@ -1274,7 +1366,8 @@
     "lots": [],
     "city": "Fishers",
     "state": "IN",
-    "venueName": "Fishers Event Center"
+    "venueName": "Fishers Event Center",
+    "guideUrl": "https://concerto-parking.netlify.app/fisherseventcenter"
   },
   "fivepoint_amphitheatre": {
     "updated": "",
@@ -1286,7 +1379,8 @@
     ],
     "city": "Irvine",
     "state": "CA",
-    "venueName": "FivePoint Amphitheatre"
+    "venueName": "FivePoint Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/fivepointamphitheatre"
   },
   "fiserv_forum": {
     "updated": "",
@@ -1298,7 +1392,8 @@
     ],
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "Fiserv Forum"
+    "venueName": "Fiserv Forum",
+    "guideUrl": "https://concerto-parking.netlify.app/fiservforum"
   },
   "fontainebleau_las_vegas": {
     "updated": "",
@@ -1308,7 +1403,8 @@
     "lots": [],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Fontainebleau Las Vegas"
+    "venueName": "Fontainebleau Las Vegas",
+    "guideUrl": "https://concerto-parking.netlify.app/fontainebleaulasvegas"
   },
   "food_city_center": {
     "updated": "",
@@ -1318,7 +1414,8 @@
     "lots": [],
     "city": "Knoxville",
     "state": "TN",
-    "venueName": "Food City Center"
+    "venueName": "Food City Center",
+    "guideUrl": "https://concerto-parking.netlify.app/foodcitycenter"
   },
   "ford_field": {
     "updated": "",
@@ -1328,7 +1425,8 @@
     "lots": [],
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Ford Field"
+    "venueName": "Ford Field",
+    "guideUrl": "https://concerto-parking.netlify.app/fordfield"
   },
   "ford_idaho_center_arena": {
     "updated": "",
@@ -1338,17 +1436,19 @@
     "lots": [],
     "city": "Boise",
     "state": "ID",
-    "venueName": "Ford Idaho Center Arena"
+    "venueName": "Ford Idaho Center Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/fordidahocenterarena"
   },
   "forum_karln": {
     "updated": "",
     "officialParkingUrl": "https://www.forumkarlin.cz/en/",
-    "note": "Parking information is not explicitly provided on the Forum Karl\u00edn website. Visitors are advised to check nearby public parking facilities or use public transportation for convenience.",
+    "note": "Parking information is not explicitly provided on the Forum Karlín website. Visitors are advised to check nearby public parking facilities or use public transportation for convenience.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [],
     "city": "Prague",
     "state": "",
-    "venueName": "Forum Karl\u00edn"
+    "venueName": "Forum Karlín",
+    "guideUrl": "https://concerto-parking.netlify.app/forumkarln"
   },
   "fox_theatre_detroit": {
     "updated": "",
@@ -1358,7 +1458,8 @@
     "lots": [],
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Fox Theatre Detroit"
+    "venueName": "Fox Theatre Detroit",
+    "guideUrl": "https://concerto-parking.netlify.app/foxtheatredetroit"
   },
   "fox_theater": {
     "updated": "",
@@ -1371,7 +1472,8 @@
     ],
     "city": "Oakland",
     "state": "CA",
-    "venueName": "Fox Theater"
+    "venueName": "Fox Theater",
+    "guideUrl": "https://concerto-parking.netlify.app/foxtheater"
   },
   "franklin_music_hall": {
     "updated": "",
@@ -1381,7 +1483,8 @@
     "lots": [],
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Franklin Music Hall"
+    "venueName": "Franklin Music Hall",
+    "guideUrl": "https://concerto-parking.netlify.app/franklinmusichall"
   },
   "freedom_mortgage_pavilion": {
     "updated": "",
@@ -1393,7 +1496,8 @@
     ],
     "city": "Camden",
     "state": "NJ",
-    "venueName": "Freedom Mortgage Pavilion"
+    "venueName": "Freedom Mortgage Pavilion",
+    "guideUrl": "https://concerto-parking.netlify.app/freedommortgagepavilion"
   },
   "frost_bank_center": {
     "updated": "",
@@ -1403,7 +1507,8 @@
     "lots": [],
     "city": "San Antonio",
     "state": "TX",
-    "venueName": "Frost Bank Center"
+    "venueName": "Frost Bank Center",
+    "guideUrl": "https://concerto-parking.netlify.app/frostbankcenter"
   },
   "gainbridge_fieldhouse": {
     "updated": "",
@@ -1415,7 +1520,8 @@
     ],
     "city": "Indianapolis",
     "state": "IN",
-    "venueName": "Gainbridge Fieldhouse"
+    "venueName": "Gainbridge Fieldhouse",
+    "guideUrl": "https://concerto-parking.netlify.app/gainbridgefieldhouse"
   },
   "gallagher_square_at_petco_park": {
     "updated": "",
@@ -1425,7 +1531,8 @@
     "lots": [],
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Gallagher Square at Petco Park"
+    "venueName": "Gallagher Square at Petco Park",
+    "guideUrl": "https://concerto-parking.netlify.app/gallaghersquareatpetcopark"
   },
   "gas_south_arena": {
     "updated": "",
@@ -1440,7 +1547,8 @@
     ],
     "city": "Duluth",
     "state": "GA",
-    "venueName": "Gas South Arena"
+    "venueName": "Gas South Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/gassoutharena"
   },
   "geha_field_at_arrowhead_stadium": {
     "updated": "",
@@ -1450,7 +1558,8 @@
     "lots": [],
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "GEHA Field at Arrowhead Stadium"
+    "venueName": "GEHA Field at Arrowhead Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/gehafieldatarrowheadstadium"
   },
   "giant_center": {
     "updated": "",
@@ -1460,7 +1569,8 @@
     "lots": [],
     "city": "Hershey",
     "state": "PA",
-    "venueName": "GIANT Center"
+    "venueName": "GIANT Center",
+    "guideUrl": "https://concerto-parking.netlify.app/giantcenter"
   },
   "gillette_stadium": {
     "updated": "",
@@ -1496,7 +1606,8 @@
     ],
     "city": "Foxborough",
     "state": "MA",
-    "venueName": "Gillette Stadium"
+    "venueName": "Gillette Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/gillettestadium"
   },
   "globe_life_field": {
     "updated": "",
@@ -1515,7 +1626,8 @@
     ],
     "city": "Arlington",
     "state": "TX",
-    "venueName": "Globe Life Field"
+    "venueName": "Globe Life Field",
+    "guideUrl": "https://concerto-parking.netlify.app/globelifefield"
   },
   "golden_1_center": {
     "updated": "",
@@ -1525,7 +1637,8 @@
     "lots": [],
     "city": "Sacramento",
     "state": "CA",
-    "venueName": "Golden 1 Center"
+    "venueName": "Golden 1 Center",
+    "guideUrl": "https://concerto-parking.netlify.app/golden1center"
   },
   "grand_casino_arena": {
     "updated": "",
@@ -1538,7 +1651,8 @@
     ],
     "city": "Saint Paul",
     "state": "MN",
-    "venueName": "Grand Casino Arena"
+    "venueName": "Grand Casino Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/grandcasinoarena"
   },
   "great_american_ball_park": {
     "updated": "",
@@ -1548,7 +1662,8 @@
     "lots": [],
     "city": "Cincinnati",
     "state": "OH",
-    "venueName": "Great American Ball Park"
+    "venueName": "Great American Ball Park",
+    "guideUrl": "https://concerto-parking.netlify.app/greatamericanballpark"
   },
   "hard_rock_stadium": {
     "updated": "2026-01-15T15:24:16-04:00",
@@ -1562,7 +1677,8 @@
     ],
     "city": "Miami Gardens",
     "state": "FL",
-    "venueName": "Hard Rock Stadium"
+    "venueName": "Hard Rock Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/hardrockstadium"
   },
   "heritage_bank_center": {
     "updated": "",
@@ -1575,7 +1691,8 @@
     ],
     "city": "Cincinnati",
     "state": "OH",
-    "venueName": "Heritage Bank Center"
+    "venueName": "Heritage Bank Center",
+    "guideUrl": "https://concerto-parking.netlify.app/heritagebankcenter"
   },
   "hersheypark_stadium": {
     "updated": "",
@@ -1585,7 +1702,8 @@
     "lots": [],
     "city": "Hershey",
     "state": "PA",
-    "venueName": "Hersheypark Stadium"
+    "venueName": "Hersheypark Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/hersheyparkstadium"
   },
   "highmark_stadium": {
     "updated": "",
@@ -1595,7 +1713,8 @@
     "lots": [],
     "city": "Orchard Park",
     "state": "NY",
-    "venueName": "Highmark Stadium"
+    "venueName": "Highmark Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/highmarkstadium"
   },
   "history": {
     "updated": "",
@@ -1607,7 +1726,8 @@
     ],
     "city": "Toronto",
     "state": "ON",
-    "venueName": "History"
+    "venueName": "History",
+    "guideUrl": "https://concerto-parking.netlify.app/history"
   },
   "hollywood_bowl": {
     "updated": "",
@@ -1617,7 +1737,8 @@
     "lots": [],
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "Hollywood Bowl"
+    "venueName": "Hollywood Bowl",
+    "guideUrl": "https://concerto-parking.netlify.app/hollywoodbowl"
   },
   "honda_center": {
     "updated": "January 5, 2025",
@@ -1630,7 +1751,8 @@
     ],
     "city": "Anaheim",
     "state": "CA",
-    "venueName": "Honda Center"
+    "venueName": "Honda Center",
+    "guideUrl": "https://concerto-parking.netlify.app/hondacenter"
   },
   "house_of_blues_chicago": {
     "updated": "",
@@ -1640,7 +1762,8 @@
     "lots": [],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "House of Blues Chicago"
+    "venueName": "House of Blues Chicago",
+    "guideUrl": "https://concerto-parking.netlify.app/houseofblueschicago"
   },
   "house_of_blues_las_vegas": {
     "updated": "",
@@ -1650,7 +1773,8 @@
     "lots": [],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "House of Blues Las Vegas"
+    "venueName": "House of Blues Las Vegas",
+    "guideUrl": "https://concerto-parking.netlify.app/houseofblueslasvegas"
   },
   "howard_theatre": {
     "updated": "",
@@ -1681,7 +1805,8 @@
     ],
     "city": "Washington",
     "state": "DC",
-    "venueName": "Howard Theatre"
+    "venueName": "Howard Theatre",
+    "guideUrl": "https://concerto-parking.netlify.app/howardtheatre"
   },
   "huntington_bank_field": {
     "updated": "",
@@ -1691,7 +1816,8 @@
     "lots": [],
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Huntington Bank Field"
+    "venueName": "Huntington Bank Field",
+    "guideUrl": "https://concerto-parking.netlify.app/huntingtonbankfield"
   },
   "intuit_dome": {
     "updated": "",
@@ -1705,7 +1831,8 @@
     ],
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "Intuit Dome"
+    "venueName": "Intuit Dome",
+    "guideUrl": "https://concerto-parking.netlify.app/intuitdome"
   },
   "irving_plaza": {
     "updated": "",
@@ -1715,7 +1842,8 @@
     "lots": [],
     "city": "New York",
     "state": "NY",
-    "venueName": "Irving Plaza"
+    "venueName": "Irving Plaza",
+    "guideUrl": "https://concerto-parking.netlify.app/irvingplaza"
   },
   "isleta_amphitheater": {
     "updated": "",
@@ -1725,7 +1853,8 @@
     "lots": [],
     "city": "Albuquerque",
     "state": "NM",
-    "venueName": "Isleta Amphitheater"
+    "venueName": "Isleta Amphitheater",
+    "guideUrl": "https://concerto-parking.netlify.app/isletaamphitheater"
   },
   "iveagh_gardens": {
     "updated": "",
@@ -1735,7 +1864,8 @@
     "lots": [],
     "city": "Dublin",
     "state": "",
-    "venueName": "Iveagh Gardens"
+    "venueName": "Iveagh Gardens",
+    "guideUrl": "https://concerto-parking.netlify.app/iveaghgardens"
   },
   "jiffy_lube_live": {
     "updated": "",
@@ -1745,7 +1875,8 @@
     "lots": [],
     "city": "Bristow",
     "state": "VA",
-    "venueName": "Jiffy Lube Live"
+    "venueName": "Jiffy Lube Live",
+    "guideUrl": "https://concerto-parking.netlify.app/jiffylubelive"
   },
   "jma_wireless_dome": {
     "updated": "",
@@ -1759,7 +1890,8 @@
     ],
     "city": "Syracuse",
     "state": "NY",
-    "venueName": "JMA Wireless Dome"
+    "venueName": "JMA Wireless Dome",
+    "guideUrl": "https://concerto-parking.netlify.app/jmawirelessdome"
   },
   "johan_cruijff_arena": {
     "updated": "",
@@ -1769,7 +1901,8 @@
     "lots": [],
     "city": "Amsterdam",
     "state": "",
-    "venueName": "Johan Cruijff ArenA"
+    "venueName": "Johan Cruijff ArenA",
+    "guideUrl": "https://concerto-parking.netlify.app/johancruijffarena"
   },
   "john_paul_jones_arena": {
     "updated": "",
@@ -1788,7 +1921,8 @@
     ],
     "city": "Charlottesville",
     "state": "VA",
-    "venueName": "John Paul Jones Arena"
+    "venueName": "John Paul Jones Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/johnpauljonesarena"
   },
   "kaseya_center": {
     "updated": "",
@@ -1798,7 +1932,8 @@
     "lots": [],
     "city": "Miami",
     "state": "FL",
-    "venueName": "Kaseya Center"
+    "venueName": "Kaseya Center",
+    "guideUrl": "https://concerto-parking.netlify.app/kaseyacenter"
   },
   "kauffman_stadium": {
     "updated": "",
@@ -1817,7 +1952,8 @@
     ],
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "Kauffman Stadium"
+    "venueName": "Kauffman Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/kauffmanstadium"
   },
   "keybank_center": {
     "updated": "",
@@ -1827,7 +1963,8 @@
     "lots": [],
     "city": "Buffalo",
     "state": "NY",
-    "venueName": "KeyBank Center"
+    "venueName": "KeyBank Center",
+    "guideUrl": "https://concerto-parking.netlify.app/keybankcenter"
   },
   "king_baudouin_stadium": {
     "updated": "2024-09-27T13:53:56+02:00",
@@ -1837,7 +1974,8 @@
     "lots": [],
     "city": "Brussels",
     "state": "",
-    "venueName": "King Baudouin Stadium"
+    "venueName": "King Baudouin Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/kingbaudouinstadium"
   },
   "kia_center": {
     "updated": "",
@@ -1853,7 +1991,8 @@
     ],
     "city": "Orlando",
     "state": "FL",
-    "venueName": "Kia Center"
+    "venueName": "Kia Center",
+    "guideUrl": "https://concerto-parking.netlify.app/kiacenter"
   },
   "kia_forum": {
     "updated": "",
@@ -1865,19 +2004,21 @@
     ],
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "Kia Forum"
+    "venueName": "Kia Forum",
+    "guideUrl": "https://concerto-parking.netlify.app/kiaforum"
   },
   "lanxess_arena": {
     "updated": "",
     "officialParkingUrl": "https://www.lanxess-arena.de/anfahrt-parken/anfahrt-mit-pkw/parkplatz-p5",
-    "note": "Parking at LANXESS Arena's P5 lot is available 24/7 with a fee of 1.00 \u20ac per 30 minutes. Payment can be made with cash or NFC-enabled cards. The lot is suitable for vehicles over 1.90 m, including buses and RVs.",
+    "note": "Parking at LANXESS Arena's P5 lot is available 24/7 with a fee of 1.00 € per 30 minutes. Payment can be made with cash or NFC-enabled cards. The lot is suitable for vehicles over 1.90 m, including buses and RVs.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "Parkplatz P5"
     ],
     "city": "Cologne",
     "state": "",
-    "venueName": "LANXESS Arena"
+    "venueName": "LANXESS Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/lanxessarena"
   },
   "lambeau_field": {
     "updated": "",
@@ -1891,7 +2032,8 @@
     ],
     "city": "Green Bay",
     "state": "WI",
-    "venueName": "Lambeau Field"
+    "venueName": "Lambeau Field",
+    "guideUrl": "https://concerto-parking.netlify.app/lambeaufield"
   },
   "ldlc_arena": {
     "updated": "",
@@ -1899,9 +2041,10 @@
     "note": "Parking options include a paid car park for 20 euros and a two-wheeler park for 10 euros. There is also a free parking area for non-motorized two-wheelers near the stadium.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [],
-    "city": "D\u00e9cines-Charpieu",
+    "city": "Décines-Charpieu",
     "state": "",
-    "venueName": "LDLC Arena"
+    "venueName": "LDLC Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/ldlcarena"
   },
   "lenovo_center": {
     "updated": "",
@@ -1911,7 +2054,8 @@
     "lots": [],
     "city": "Morrisville",
     "state": "NC",
-    "venueName": "Lenovo Center"
+    "venueName": "Lenovo Center",
+    "guideUrl": "https://concerto-parking.netlify.app/lenovocenter"
   },
   "letnia_scena_progresji": {
     "updated": "",
@@ -1921,7 +2065,8 @@
     "lots": [],
     "city": "Warsaw",
     "state": "",
-    "venueName": "Letnia Scena Progresji"
+    "venueName": "Letnia Scena Progresji",
+    "guideUrl": "https://concerto-parking.netlify.app/letniascenaprogresji"
   },
   "levis_stadium": {
     "updated": "",
@@ -1951,7 +2096,8 @@
     ],
     "city": "Santa Clara",
     "state": "CA",
-    "venueName": "Levi\u2019s Stadium"
+    "venueName": "Levi’s Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/levisstadium"
   },
   "lincoln_financial_field": {
     "updated": "",
@@ -1979,7 +2125,8 @@
     ],
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Lincoln Financial Field"
+    "venueName": "Lincoln Financial Field",
+    "guideUrl": "https://concerto-parking.netlify.app/lincolnfinancialfield"
   },
   "little_caesars_arena": {
     "updated": "",
@@ -1989,7 +2136,8 @@
     "lots": [],
     "city": "Detroit",
     "state": "MI",
-    "venueName": "Little Caesars Arena"
+    "venueName": "Little Caesars Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/littlecaesarsarena"
   },
   "loandepot_park": {
     "updated": "",
@@ -1999,7 +2147,8 @@
     "lots": [],
     "city": "Miami",
     "state": "FL",
-    "venueName": "LoanDepot Park"
+    "venueName": "LoanDepot Park",
+    "guideUrl": "https://concerto-parking.netlify.app/loandepotpark"
   },
   "lotto_arena": {
     "updated": "",
@@ -2014,7 +2163,8 @@
     ],
     "city": "Antwerp",
     "state": "",
-    "venueName": "Lotto Arena"
+    "venueName": "Lotto Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/lottoarena"
   },
   "lucas_oil_stadium": {
     "updated": "",
@@ -2024,7 +2174,8 @@
     "lots": [],
     "city": "Indianapolis",
     "state": "IN",
-    "venueName": "Lucas Oil Stadium"
+    "venueName": "Lucas Oil Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/lucasoilstadium"
   },
   "lumen_field": {
     "updated": "",
@@ -2037,7 +2188,8 @@
     ],
     "city": "Seattle",
     "state": "WA",
-    "venueName": "Lumen Field"
+    "venueName": "Lumen Field",
+    "guideUrl": "https://concerto-parking.netlify.app/lumenfield"
   },
   "madison_square_garden": {
     "updated": "",
@@ -2047,7 +2199,8 @@
     "lots": [],
     "city": "New York",
     "state": "NY",
-    "venueName": "Madison Square Garden"
+    "venueName": "Madison Square Garden",
+    "guideUrl": "https://concerto-parking.netlify.app/madisonsquaregarden"
   },
   "manchester_academy": {
     "updated": "",
@@ -2057,7 +2210,8 @@
     "lots": [],
     "city": "Manchester",
     "state": "",
-    "venueName": "Manchester Academy"
+    "venueName": "Manchester Academy",
+    "guideUrl": "https://concerto-parking.netlify.app/manchesteracademy"
   },
   "manhattan_center_hammerstein_ballroom": {
     "updated": "",
@@ -2069,17 +2223,19 @@
     ],
     "city": "New York",
     "state": "NY",
-    "venueName": "Manhattan Center Hammerstein Ballroom"
+    "venueName": "Manhattan Center Hammerstein Ballroom",
+    "guideUrl": "https://concerto-parking.netlify.app/manhattancenterhammersteinballroom"
   },
   "marx_halle": {
     "updated": "",
     "officialParkingUrl": "https://www.boe-parking.at/de/garagen/wien/neumarx",
-    "note": "Parking at Marx Halle offers various options including short-term rates at \u20ac2.20 per hour and an evening flat rate of \u20ac6.00. There are also options for weekly and monthly tickets, as well as comfort parking with slightly reduced rates.",
+    "note": "Parking at Marx Halle offers various options including short-term rates at €2.20 per hour and an evening flat rate of €6.00. There are also options for weekly and monthly tickets, as well as comfort parking with slightly reduced rates.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [],
     "city": "Vienna",
     "state": "",
-    "venueName": "Marx Halle"
+    "venueName": "Marx Halle",
+    "guideUrl": "https://concerto-parking.netlify.app/marxhalle"
   },
   "maverik_center": {
     "updated": "",
@@ -2089,7 +2245,8 @@
     "lots": [],
     "city": "West Valley City",
     "state": "UT",
-    "venueName": "Maverik Center"
+    "venueName": "Maverik Center",
+    "guideUrl": "https://concerto-parking.netlify.app/maverikcenter"
   },
   "mt_bank_stadium": {
     "updated": "",
@@ -2104,7 +2261,8 @@
     ],
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "M&T Bank Stadium"
+    "venueName": "M&T Bank Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/mtbankstadium"
   },
   "mercedesbenz_stadium": {
     "updated": "",
@@ -2117,7 +2275,8 @@
     ],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Mercedes-Benz Stadium"
+    "venueName": "Mercedes-Benz Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/mercedesbenzstadium"
   },
   "merriweather_post_pavilion": {
     "updated": "",
@@ -2127,7 +2286,8 @@
     "lots": [],
     "city": "Columbia",
     "state": "MD",
-    "venueName": "Merriweather Post Pavilion"
+    "venueName": "Merriweather Post Pavilion",
+    "guideUrl": "https://concerto-parking.netlify.app/merriweatherpostpavilion"
   },
   "metlife_stadium": {
     "updated": "",
@@ -2140,7 +2300,8 @@
     ],
     "city": "East Rutherford",
     "state": "NJ",
-    "venueName": "MetLife Stadium"
+    "venueName": "MetLife Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/metlifestadium"
   },
   "mgm_music_hall_at_fenway": {
     "updated": "",
@@ -2150,7 +2311,8 @@
     "lots": [],
     "city": "Boston",
     "state": "MA",
-    "venueName": "MGM Music Hall at Fenway"
+    "venueName": "MGM Music Hall at Fenway",
+    "guideUrl": "https://concerto-parking.netlify.app/mgmmusichallatfenway"
   },
   "moda_center": {
     "updated": "",
@@ -2166,7 +2328,8 @@
     ],
     "city": "Portland",
     "state": "OR",
-    "venueName": "Moda Center"
+    "venueName": "Moda Center",
+    "guideUrl": "https://concerto-parking.netlify.app/modacenter"
   },
   "mohegan_sun_arena": {
     "updated": "",
@@ -2180,7 +2343,8 @@
     ],
     "city": "Uncasville",
     "state": "CT",
-    "venueName": "Mohegan Sun Arena"
+    "venueName": "Mohegan Sun Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/mohegansunarena"
   },
   "moody_center": {
     "updated": "",
@@ -2193,7 +2357,8 @@
     ],
     "city": "Austin",
     "state": "TX",
-    "venueName": "Moody Center"
+    "venueName": "Moody Center",
+    "guideUrl": "https://concerto-parking.netlify.app/moodycenter"
   },
   "mortgage_matchup_center": {
     "updated": "",
@@ -2203,7 +2368,8 @@
     "lots": [],
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Mortgage Matchup Center"
+    "venueName": "Mortgage Matchup Center",
+    "guideUrl": "https://concerto-parking.netlify.app/mortgagematchupcenter"
   },
   "movistar_arena": {
     "updated": "",
@@ -2213,7 +2379,8 @@
     "lots": [],
     "city": "Madrid",
     "state": "",
-    "venueName": "Movistar Arena"
+    "venueName": "Movistar Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/movistararena"
   },
   "mvp_arena": {
     "updated": "",
@@ -2225,12 +2392,13 @@
     ],
     "city": "Albany",
     "state": "NY",
-    "venueName": "MVP Arena"
+    "venueName": "MVP Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/mvparena"
   },
   "myticket_jahrhunderthalle": {
     "updated": "",
     "officialParkingUrl": "https://www.myticket-jahrhunderthalle.de/besuch/parken",
-    "note": "There are 1,300 parking spaces available at myticket Jahrhunderthalle, typically opening 3 hours before events and costing 8 \u20ac on-site. VIP guests have designated parking in area A, and accessible parking is available in area B.",
+    "note": "There are 1,300 parking spaces available at myticket Jahrhunderthalle, typically opening 3 hours before events and costing 8 € on-site. VIP guests have designated parking in area A, and accessible parking is available in area B.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "Parkplatz A",
@@ -2239,7 +2407,8 @@
     ],
     "city": "Frankfurt am Main",
     "state": "",
-    "venueName": "myticket Jahrhunderthalle"
+    "venueName": "myticket Jahrhunderthalle",
+    "guideUrl": "https://concerto-parking.netlify.app/myticketjahrhunderthalle"
   },
   "nationals_park": {
     "updated": "",
@@ -2258,7 +2427,8 @@
     ],
     "city": "Washington",
     "state": "DC",
-    "venueName": "Nationals Park"
+    "venueName": "Nationals Park",
+    "guideUrl": "https://concerto-parking.netlify.app/nationalspark"
   },
   "nationwide_arena": {
     "updated": "",
@@ -2271,7 +2441,8 @@
     ],
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Nationwide Arena"
+    "venueName": "Nationwide Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/nationwidearena"
   },
   "nissan_stadium": {
     "updated": "",
@@ -2293,7 +2464,8 @@
     ],
     "city": "Nashville",
     "state": "TN",
-    "venueName": "Nissan Stadium"
+    "venueName": "Nissan Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/nissanstadium"
   },
   "north_island_credit_union_amphitheatre": {
     "updated": "",
@@ -2303,7 +2475,8 @@
     "lots": [],
     "city": "Chula Vista",
     "state": "CA",
-    "venueName": "North Island Credit Union Amphitheatre"
+    "venueName": "North Island Credit Union Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/northislandcreditunionamphitheatre"
   },
   "nrg_stadium": {
     "updated": "",
@@ -2323,7 +2496,8 @@
     ],
     "city": "Houston",
     "state": "TX",
-    "venueName": "NRG Stadium"
+    "venueName": "NRG Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/nrgstadium"
   },
   "oakland_arena": {
     "updated": "",
@@ -2333,7 +2507,8 @@
     "lots": [],
     "city": "Oakland",
     "state": "CA",
-    "venueName": "Oakland Arena"
+    "venueName": "Oakland Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/oaklandarena"
   },
   "oracle_park": {
     "updated": "",
@@ -2343,7 +2518,8 @@
     "lots": [],
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Oracle Park"
+    "venueName": "Oracle Park",
+    "guideUrl": "https://concerto-parking.netlify.app/oraclepark"
   },
   "oriole_park_at_camden_yards": {
     "updated": "",
@@ -2362,7 +2538,8 @@
     ],
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "Oriole Park at Camden Yards"
+    "venueName": "Oriole Park at Camden Yards",
+    "guideUrl": "https://concerto-parking.netlify.app/orioleparkatcamdenyards"
   },
   "o2_academy_birmingham": {
     "updated": "",
@@ -2374,7 +2551,8 @@
     ],
     "city": "Birmingham",
     "state": "",
-    "venueName": "O2 Academy Birmingham"
+    "venueName": "O2 Academy Birmingham",
+    "guideUrl": "https://concerto-parking.netlify.app/o2academybirmingham"
   },
   "o2_shepherds_bush_empire": {
     "updated": "",
@@ -2384,7 +2562,8 @@
     "lots": [],
     "city": "London",
     "state": "",
-    "venueName": "O2 Shepherds Bush Empire"
+    "venueName": "O2 Shepherds Bush Empire",
+    "guideUrl": "https://concerto-parking.netlify.app/o2shepherdsbushempire"
   },
   "ohio_stadium": {
     "updated": "",
@@ -2397,7 +2576,8 @@
     ],
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Ohio Stadium"
+    "venueName": "Ohio Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/ohiostadium"
   },
   "olympiahalle": {
     "updated": "",
@@ -2407,7 +2587,8 @@
     "lots": [],
     "city": "Munich",
     "state": "",
-    "venueName": "Olympiahalle"
+    "venueName": "Olympiahalle",
+    "guideUrl": "https://concerto-parking.netlify.app/olympiahalle"
   },
   "olympiastadion": {
     "updated": "",
@@ -2417,7 +2598,8 @@
     "lots": [],
     "city": "Berlin",
     "state": "",
-    "venueName": "Olympiastadion"
+    "venueName": "Olympiastadion",
+    "guideUrl": "https://concerto-parking.netlify.app/olympiastadion"
   },
   "ovo_hydro": {
     "updated": "",
@@ -2427,7 +2609,8 @@
     "lots": [],
     "city": "Glasgow",
     "state": "",
-    "venueName": "OVO Hydro"
+    "venueName": "OVO Hydro",
+    "guideUrl": "https://concerto-parking.netlify.app/ovohydro"
   },
   "palacio_de_los_deportes": {
     "updated": "",
@@ -2437,7 +2620,8 @@
     "lots": [],
     "city": "Mexico City",
     "state": "",
-    "venueName": "Palacio de los Deportes"
+    "venueName": "Palacio de los Deportes",
+    "guideUrl": "https://concerto-parking.netlify.app/palaciodelosdeportes"
   },
   "palau_sant_jordi": {
     "updated": "",
@@ -2447,7 +2631,8 @@
     "lots": [],
     "city": "Barcelona",
     "state": "",
-    "venueName": "Palau Sant Jordi"
+    "venueName": "Palau Sant Jordi",
+    "guideUrl": "https://concerto-parking.netlify.app/palausantjordi"
   },
   "paramount_theatre": {
     "updated": "",
@@ -2461,7 +2646,8 @@
     ],
     "city": "Seattle",
     "state": "WA",
-    "venueName": "Paramount Theatre"
+    "venueName": "Paramount Theatre",
+    "guideUrl": "https://concerto-parking.netlify.app/paramounttheatre"
   },
   "patrick_gym": {
     "updated": "",
@@ -2471,7 +2657,8 @@
     "lots": [],
     "city": "Burlington",
     "state": "VT",
-    "venueName": "Patrick Gym"
+    "venueName": "Patrick Gym",
+    "guideUrl": "https://concerto-parking.netlify.app/patrickgym"
   },
   "paycom_center": {
     "updated": "",
@@ -2483,7 +2670,8 @@
     ],
     "city": "Oklahoma City",
     "state": "OK",
-    "venueName": "Paycom Center"
+    "venueName": "Paycom Center",
+    "guideUrl": "https://concerto-parking.netlify.app/paycomcenter"
   },
   "paycor_stadium": {
     "updated": "",
@@ -2518,7 +2706,8 @@
     ],
     "city": "Cincinnati",
     "state": "OH",
-    "venueName": "Paycor Stadium"
+    "venueName": "Paycor Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/paycorstadium"
   },
   "pechanga_arena": {
     "updated": "",
@@ -2528,7 +2717,8 @@
     "lots": [],
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Pechanga Arena"
+    "venueName": "Pechanga Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/pechangaarena"
   },
   "peoplesbank_arena": {
     "updated": "",
@@ -2543,7 +2733,8 @@
     ],
     "city": "Hartford",
     "state": "CT",
-    "venueName": "PeoplesBank Arena"
+    "venueName": "PeoplesBank Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/peoplesbankarena"
   },
   "petco_park": {
     "updated": "",
@@ -2562,7 +2753,8 @@
     ],
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Petco Park"
+    "venueName": "Petco Park",
+    "guideUrl": "https://concerto-parking.netlify.app/petcopark"
   },
   "petersen_events_center": {
     "updated": "",
@@ -2575,7 +2767,8 @@
     ],
     "city": "Pittsburgh",
     "state": "PA",
-    "venueName": "Petersen Events Center"
+    "venueName": "Petersen Events Center",
+    "guideUrl": "https://concerto-parking.netlify.app/peterseneventscenter"
   },
   "phx_arena": {
     "updated": "",
@@ -2585,7 +2778,29 @@
     "lots": [],
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "PHX Arena"
+    "venueName": "PHX Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/phxarena"
+  },
+  "pnc_park": {
+    "updated": "",
+    "officialParkingUrl": "https://www.mlb.com/mets/ballpark/transportation/driving-parking",
+    "note": "Parking options include discounted offsite parking at Skyview Mall and various lots around Citi Field. Prices range from $10-20 at Skyview Mall and $40-120 at Citi Field depending on the event and vehicle type. Payment is cashless, and early arrival is recommended to avoid traffic.",
+    "rideshare": "No specific rideshare notes available.",
+    "lots": [
+      "Lot B",
+      "Lot C",
+      "Lot D",
+      "Lot E",
+      "Lot F",
+      "Southfield/Commuter Lot",
+      "Stadium View East",
+      "Stadium View West",
+      "Marina East"
+    ],
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venueName": "PNC Park",
+    "guideUrl": "https://concerto-parking.netlify.app/pncpark"
   },
   "pnc_arena": {
     "updated": "",
@@ -2595,7 +2810,8 @@
     "lots": [],
     "city": "Raleigh",
     "state": "NC",
-    "venueName": "PNC Arena"
+    "venueName": "PNC Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/pncarena"
   },
   "pinnacle_bank_arena": {
     "updated": "",
@@ -2612,7 +2828,8 @@
     ],
     "city": "Lincoln",
     "state": "NE",
-    "venueName": "Pinnacle Bank Arena"
+    "venueName": "Pinnacle Bank Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/pinnaclebankarena"
   },
   "ppg_paints_arena": {
     "updated": "",
@@ -2625,7 +2842,8 @@
     ],
     "city": "Pittsburgh",
     "state": "PA",
-    "venueName": "PPG Paints Arena"
+    "venueName": "PPG Paints Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/ppgpaintsarena"
   },
   "progressive_field": {
     "updated": "",
@@ -2645,7 +2863,8 @@
     ],
     "city": "Cleveland",
     "state": "OH",
-    "venueName": "Progressive Field"
+    "venueName": "Progressive Field",
+    "guideUrl": "https://concerto-parking.netlify.app/progressivefield"
   },
   "providence_park": {
     "updated": "",
@@ -2655,7 +2874,8 @@
     "lots": [],
     "city": "Portland",
     "state": "OR",
-    "venueName": "Providence Park"
+    "venueName": "Providence Park",
+    "guideUrl": "https://concerto-parking.netlify.app/providencepark"
   },
   "prudential_center": {
     "updated": "",
@@ -2670,7 +2890,8 @@
     ],
     "city": "Newark",
     "state": "NJ",
-    "venueName": "Prudential Center"
+    "venueName": "Prudential Center",
+    "guideUrl": "https://concerto-parking.netlify.app/prudentialcenter"
   },
   "rate_field": {
     "updated": "",
@@ -2689,7 +2910,8 @@
     ],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Rate Field"
+    "venueName": "Rate Field",
+    "guideUrl": "https://concerto-parking.netlify.app/ratefield"
   },
   "raymond_james_stadium": {
     "updated": "",
@@ -2717,7 +2939,8 @@
     ],
     "city": "Tampa",
     "state": "FL",
-    "venueName": "Raymond James Stadium"
+    "venueName": "Raymond James Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/raymondjamesstadium"
   },
   "red_hat_amphitheater": {
     "updated": "",
@@ -2727,7 +2950,8 @@
     "lots": [],
     "city": "Raleigh",
     "state": "NC",
-    "venueName": "Red Hat Amphitheater"
+    "venueName": "Red Hat Amphitheater",
+    "guideUrl": "https://concerto-parking.netlify.app/redhatamphitheater"
   },
   "red_rocks_amphitheatre": {
     "updated": "",
@@ -2742,7 +2966,8 @@
     ],
     "city": "Morrison",
     "state": "CO",
-    "venueName": "Red Rocks Amphitheatre"
+    "venueName": "Red Rocks Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/redrocksamphitheatre"
   },
   "riyadh_air_metropolitano": {
     "updated": "",
@@ -2752,7 +2977,8 @@
     "lots": [],
     "city": "Madrid",
     "state": "",
-    "venueName": "Riyadh Air Metropolitano"
+    "venueName": "Riyadh Air Metropolitano",
+    "guideUrl": "https://concerto-parking.netlify.app/riyadhairmetropolitano"
   },
   "rocket_mortgage_fieldhouse": {
     "updated": "",
@@ -2765,7 +2991,8 @@
     ],
     "city": "Cleveland",
     "state": "OH",
-    "venueName": "Rocket Mortgage FieldHouse"
+    "venueName": "Rocket Mortgage FieldHouse",
+    "guideUrl": "https://concerto-parking.netlify.app/rocketmortgagefieldhouse"
   },
   "rocket_arena": {
     "updated": "",
@@ -2779,7 +3006,8 @@
     ],
     "city": "Huntington",
     "state": "WV",
-    "venueName": "Rocket Arena"
+    "venueName": "Rocket Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/rocketarena"
   },
   "rogers_arena": {
     "updated": "",
@@ -2789,7 +3017,8 @@
     "lots": [],
     "city": "Vancouver",
     "state": "BC",
-    "venueName": "Rogers Arena"
+    "venueName": "Rogers Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/rogersarena"
   },
   "rogers_centre": {
     "updated": "",
@@ -2799,7 +3028,8 @@
     "lots": [],
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Rogers Centre"
+    "venueName": "Rogers Centre",
+    "guideUrl": "https://concerto-parking.netlify.app/rogerscentre"
   },
   "rogers_place": {
     "updated": "",
@@ -2809,7 +3039,8 @@
     "lots": [],
     "city": "Edmonton",
     "state": "AB",
-    "venueName": "Rogers Place"
+    "venueName": "Rogers Place",
+    "guideUrl": "https://concerto-parking.netlify.app/rogersplace"
   },
   "rogers_stadium": {
     "updated": "",
@@ -2824,7 +3055,8 @@
     ],
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Rogers Stadium"
+    "venueName": "Rogers Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/rogersstadium"
   },
   "rosemont_theatre": {
     "updated": "",
@@ -2834,7 +3066,8 @@
     "lots": [],
     "city": "Rosemont",
     "state": "IL",
-    "venueName": "Rosemont Theatre"
+    "venueName": "Rosemont Theatre",
+    "guideUrl": "https://concerto-parking.netlify.app/rosemonttheatre"
   },
   "rupp_arena": {
     "updated": "",
@@ -2846,12 +3079,13 @@
     ],
     "city": "Lexington",
     "state": "KY",
-    "venueName": "Rupp Arena"
+    "venueName": "Rupp Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/rupparena"
   },
   "o2_arena": {
     "updated": "",
     "officialParkingUrl": "https://www.o2arena.cz/en/for-visitors/parking-and-transportation/how-to-get-to-the-o2-arena/",
-    "note": "Parking is available at the dedicated parking garage accessible via \u010ceskomoravsk\u00e1 Street and Lisabonsk\u00e1 Street. Alternative parking options include the nearby STAGES HOTEL Prague and Galerie Harfa shopping center.",
+    "note": "Parking is available at the dedicated parking garage accessible via Českomoravská Street and Lisabonská Street. Alternative parking options include the nearby STAGES HOTEL Prague and Galerie Harfa shopping center.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "Parking Garage",
@@ -2860,7 +3094,8 @@
     ],
     "city": "Prague",
     "state": "",
-    "venueName": "O2 Arena"
+    "venueName": "O2 Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/o2arena"
   },
   "ryman_auditorium": {
     "updated": "",
@@ -2872,7 +3107,8 @@
     ],
     "city": "Nashville",
     "state": "TN",
-    "venueName": "Ryman Auditorium"
+    "venueName": "Ryman Auditorium",
+    "guideUrl": "https://concerto-parking.netlify.app/rymanauditorium"
   },
   "sap_center": {
     "updated": "",
@@ -2884,7 +3120,8 @@
     ],
     "city": "San Jose",
     "state": "CA",
-    "venueName": "SAP Center"
+    "venueName": "SAP Center",
+    "guideUrl": "https://concerto-parking.netlify.app/sapcenter"
   },
   "save_mart_center": {
     "updated": "",
@@ -2898,7 +3135,8 @@
     ],
     "city": "Fresno",
     "state": "CA",
-    "venueName": "Save Mart Center"
+    "venueName": "Save Mart Center",
+    "guideUrl": "https://concerto-parking.netlify.app/savemartcenter"
   },
   "schottenstein_center": {
     "updated": "",
@@ -2912,7 +3150,8 @@
     ],
     "city": "Columbus",
     "state": "OH",
-    "venueName": "Schottenstein Center"
+    "venueName": "Schottenstein Center",
+    "guideUrl": "https://concerto-parking.netlify.app/schottensteincenter"
   },
   "scotiabank_arena": {
     "updated": "",
@@ -2925,7 +3164,8 @@
     ],
     "city": "Toronto",
     "state": "ON",
-    "venueName": "Scotiabank Arena"
+    "venueName": "Scotiabank Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/scotiabankarena"
   },
   "scotiabank_saddledome": {
     "updated": "",
@@ -2938,7 +3178,8 @@
     ],
     "city": "Calgary",
     "state": "AB",
-    "venueName": "Scotiabank Saddledome"
+    "venueName": "Scotiabank Saddledome",
+    "guideUrl": "https://concerto-parking.netlify.app/scotiabanksaddledome"
   },
   "scottish_gas_murrayfield": {
     "updated": "",
@@ -2948,7 +3189,8 @@
     "lots": [],
     "city": "Edinburgh",
     "state": "",
-    "venueName": "Scottish Gas Murrayfield"
+    "venueName": "Scottish Gas Murrayfield",
+    "guideUrl": "https://concerto-parking.netlify.app/scottishgasmurrayfield"
   },
   "shoreline_amphitheatre": {
     "updated": "",
@@ -2958,7 +3200,8 @@
     "lots": [],
     "city": "Mountain View",
     "state": "CA",
-    "venueName": "Shoreline Amphitheatre"
+    "venueName": "Shoreline Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/shorelineamphitheatre"
   },
   "simmons_bank_arena": {
     "updated": "",
@@ -2968,7 +3211,8 @@
     "lots": [],
     "city": "North Little Rock",
     "state": "AR",
-    "venueName": "Simmons Bank Arena"
+    "venueName": "Simmons Bank Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/simmonsbankarena"
   },
   "skyline_stage_at_the_mann": {
     "updated": "",
@@ -2978,7 +3222,8 @@
     "lots": [],
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Skyline Stage at the Mann"
+    "venueName": "Skyline Stage at the Mann",
+    "guideUrl": "https://concerto-parking.netlify.app/skylinestageatthemann"
   },
   "snhu_arena": {
     "updated": "",
@@ -2988,7 +3233,8 @@
     "lots": [],
     "city": "Manchester",
     "state": "NH",
-    "venueName": "SNHU Arena"
+    "venueName": "SNHU Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/snhuarena"
   },
   "smoothie_king_center": {
     "updated": "",
@@ -3008,7 +3254,8 @@
     ],
     "city": "New Orleans",
     "state": "LA",
-    "venueName": "Smoothie King Center"
+    "venueName": "Smoothie King Center",
+    "guideUrl": "https://concerto-parking.netlify.app/smoothiekingcenter"
   },
   "sofi_stadium": {
     "updated": "",
@@ -3018,7 +3265,8 @@
     "lots": [],
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "SoFi Stadium"
+    "venueName": "SoFi Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/sofistadium"
   },
   "soldier_field": {
     "updated": "",
@@ -3034,7 +3282,8 @@
     ],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Soldier Field"
+    "venueName": "Soldier Field",
+    "guideUrl": "https://concerto-parking.netlify.app/soldierfield"
   },
   "spectrum_center": {
     "updated": "",
@@ -3044,7 +3293,8 @@
     "lots": [],
     "city": "Charlotte",
     "state": "NC",
-    "venueName": "Spectrum Center"
+    "venueName": "Spectrum Center",
+    "guideUrl": "https://concerto-parking.netlify.app/spectrumcenter"
   },
   "sphere": {
     "updated": "",
@@ -3054,7 +3304,8 @@
     "lots": [],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Sphere"
+    "venueName": "Sphere",
+    "guideUrl": "https://concerto-parking.netlify.app/sphere"
   },
   "sse_arena_belfast": {
     "updated": "",
@@ -3064,7 +3315,8 @@
     "lots": [],
     "city": "Belfast",
     "state": "",
-    "venueName": "SSE Arena Belfast"
+    "venueName": "SSE Arena Belfast",
+    "guideUrl": "https://concerto-parking.netlify.app/ssearenabelfast"
   },
   "stade_de_france": {
     "updated": "",
@@ -3074,7 +3326,8 @@
     "lots": [],
     "city": "Paris",
     "state": "",
-    "venueName": "Stade de France"
+    "venueName": "Stade de France",
+    "guideUrl": "https://concerto-parking.netlify.app/stadedefrance"
   },
   "stadio_san_siro": {
     "updated": "",
@@ -3084,19 +3337,21 @@
     "lots": [],
     "city": "Milan",
     "state": "",
-    "venueName": "Stadio San Siro"
+    "venueName": "Stadio San Siro",
+    "guideUrl": "https://concerto-parking.netlify.app/stadiosansiro"
   },
   "stadtpark_open_air": {
     "updated": "",
     "officialParkingUrl": "https://www.stadtparkopenair.de/anfahrt-lageplan/",
-    "note": "Parking is available at the '\u00dcberseering' in the City Nord, which is about a 5-10 minute walk from the venue. No specific pricing information is provided. Consider using public transportation as the event ticket includes an HVV ticket.",
+    "note": "Parking is available at the 'Überseering' in the City Nord, which is about a 5-10 minute walk from the venue. No specific pricing information is provided. Consider using public transportation as the event ticket includes an HVV ticket.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
-      "\u00dcberseering"
+      "Überseering"
     ],
     "city": "Hamburg",
     "state": "",
-    "venueName": "Stadtpark Open Air"
+    "venueName": "Stadtpark Open Air",
+    "guideUrl": "https://concerto-parking.netlify.app/stadtparkopenair"
   },
   "starlight_theatre": {
     "updated": "",
@@ -3110,7 +3365,8 @@
     ],
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "Starlight Theatre"
+    "venueName": "Starlight Theatre",
+    "guideUrl": "https://concerto-parking.netlify.app/starlighttheatre"
   },
   "stanford_stadium": {
     "updated": "",
@@ -3120,7 +3376,8 @@
     "lots": [],
     "city": "Stanford",
     "state": "CA",
-    "venueName": "Stanford Stadium"
+    "venueName": "Stanford Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/stanfordstadium"
   },
   "state_farm_arena": {
     "updated": "",
@@ -3135,7 +3392,8 @@
     ],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "State Farm Arena"
+    "venueName": "State Farm Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/statefarmarena"
   },
   "state_farm_stadium": {
     "updated": "",
@@ -3149,7 +3407,8 @@
     ],
     "city": "Glendale",
     "state": "AZ",
-    "venueName": "State Farm Stadium"
+    "venueName": "State Farm Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/statefarmstadium"
   },
   "summit_music_hall": {
     "updated": "",
@@ -3159,7 +3418,8 @@
     "lots": [],
     "city": "Denver",
     "state": "CO",
-    "venueName": "Summit Music Hall"
+    "venueName": "Summit Music Hall",
+    "guideUrl": "https://concerto-parking.netlify.app/summitmusichall"
   },
   "sun_bowl_stadium": {
     "updated": "",
@@ -3169,7 +3429,8 @@
     "lots": [],
     "city": "El Paso",
     "state": "TX",
-    "venueName": "Sun Bowl Stadium"
+    "venueName": "Sun Bowl Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/sunbowlstadium"
   },
   "synovus_bank_amphitheater_at_chastain_park": {
     "updated": "",
@@ -3181,7 +3442,8 @@
     ],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Synovus Bank Amphitheater at Chastain Park"
+    "venueName": "Synovus Bank Amphitheater at Chastain Park",
+    "guideUrl": "https://concerto-parking.netlify.app/synovusbankamphitheateratchastainpark"
   },
   "target_center": {
     "updated": "",
@@ -3196,7 +3458,8 @@
     ],
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "Target Center"
+    "venueName": "Target Center",
+    "guideUrl": "https://concerto-parking.netlify.app/targetcenter"
   },
   "target_field": {
     "updated": "",
@@ -3215,7 +3478,8 @@
     ],
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "Target Field"
+    "venueName": "Target Field",
+    "guideUrl": "https://concerto-parking.netlify.app/targetfield"
   },
   "td_coliseum": {
     "updated": "",
@@ -3230,7 +3494,8 @@
     ],
     "city": "Hamilton",
     "state": "ON",
-    "venueName": "TD Coliseum"
+    "venueName": "TD Coliseum",
+    "guideUrl": "https://concerto-parking.netlify.app/tdcoliseum"
   },
   "td_garden": {
     "updated": "Oct 10, 2025",
@@ -3242,7 +3507,8 @@
     ],
     "city": "Boston",
     "state": "MA",
-    "venueName": "TD Garden"
+    "venueName": "TD Garden",
+    "guideUrl": "https://concerto-parking.netlify.app/tdgarden"
   },
   "the_anthem": {
     "updated": "",
@@ -3252,7 +3518,8 @@
     "lots": [],
     "city": "Washington",
     "state": "DC",
-    "venueName": "The Anthem"
+    "venueName": "The Anthem",
+    "guideUrl": "https://concerto-parking.netlify.app/theanthem"
   },
   "the_armory": {
     "updated": "",
@@ -3262,7 +3529,8 @@
     "lots": [],
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "The Armory"
+    "venueName": "The Armory",
+    "guideUrl": "https://concerto-parking.netlify.app/thearmory"
   },
   "the_danforth_music_hall": {
     "updated": "",
@@ -3274,23 +3542,25 @@
     ],
     "city": "Toronto",
     "state": "ON",
-    "venueName": "The Danforth Music Hall"
+    "venueName": "The Danforth Music Hall",
+    "guideUrl": "https://concerto-parking.netlify.app/thedanforthmusichall"
   },
   "the_dome_at_americas_center": {
     "updated": "",
     "officialParkingUrl": "https://explorestlouis.com/plan-your-trip/get-around-st-louis/get-around-st-louis-map/",
-    "note": "Parking options near The Dome at America\u2019s Center include various garages and lots in downtown St. Louis. Prices and availability may vary, so it's advisable to check in advance or consider public transportation for convenience.",
+    "note": "Parking options near The Dome at America’s Center include various garages and lots in downtown St. Louis. Prices and availability may vary, so it's advisable to check in advance or consider public transportation for convenience.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "10th & Pine",
       "7th Street Garage",
-      "America\u2019s Center",
+      "America’s Center",
       "Central Downtown Garage",
       "Cupples Station Garage"
     ],
     "city": "St. Louis",
     "state": "MO",
-    "venueName": "The Dome at America\u2019s Center"
+    "venueName": "The Dome at America’s Center",
+    "guideUrl": "https://concerto-parking.netlify.app/thedomeatamericascenter"
   },
   "the_fillmore_detroit": {
     "updated": "",
@@ -3300,7 +3570,8 @@
     "lots": [],
     "city": "Detroit",
     "state": "MI",
-    "venueName": "The Fillmore Detroit"
+    "venueName": "The Fillmore Detroit",
+    "guideUrl": "https://concerto-parking.netlify.app/thefillmoredetroit"
   },
   "the_fillmore_silver_spring": {
     "updated": "",
@@ -3313,7 +3584,8 @@
     ],
     "city": "Silver Spring",
     "state": "MD",
-    "venueName": "The Fillmore Silver Spring"
+    "venueName": "The Fillmore Silver Spring",
+    "guideUrl": "https://concerto-parking.netlify.app/thefillmoresilverspring"
   },
   "the_lyric": {
     "updated": "",
@@ -3325,7 +3597,8 @@
     ],
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "The Lyric"
+    "venueName": "The Lyric",
+    "guideUrl": "https://concerto-parking.netlify.app/thelyric"
   },
   "the_met_presented_by_highmark": {
     "updated": "",
@@ -3340,7 +3613,8 @@
     ],
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "The Met Presented by Highmark"
+    "venueName": "The Met Presented by Highmark",
+    "guideUrl": "https://concerto-parking.netlify.app/themetpresentedbyhighmark"
   },
   "the_o2": {
     "updated": "",
@@ -3350,7 +3624,8 @@
     "lots": [],
     "city": "London",
     "state": "",
-    "venueName": "The O2"
+    "venueName": "The O2",
+    "guideUrl": "https://concerto-parking.netlify.app/theo2"
   },
   "the_pavilion_at_star_lake": {
     "updated": "",
@@ -3360,7 +3635,8 @@
     "lots": [],
     "city": "Burgettstown",
     "state": "PA",
-    "venueName": "The Pavilion at Star Lake"
+    "venueName": "The Pavilion at Star Lake",
+    "guideUrl": "https://concerto-parking.netlify.app/thepavilionatstarlake"
   },
   "the_pavilion_at_toyota_music_factory": {
     "updated": "",
@@ -3370,7 +3646,8 @@
     "lots": [],
     "city": "Irving",
     "state": "TX",
-    "venueName": "The Pavilion at Toyota Music Factory"
+    "venueName": "The Pavilion at Toyota Music Factory",
+    "guideUrl": "https://concerto-parking.netlify.app/thepavilionattoyotamusicfactory"
   },
   "the_pinnacle": {
     "updated": "",
@@ -3384,7 +3661,8 @@
     ],
     "city": "Nashville",
     "state": "TN",
-    "venueName": "The Pinnacle"
+    "venueName": "The Pinnacle",
+    "guideUrl": "https://concerto-parking.netlify.app/thepinnacle"
   },
   "the_rady_shell_at_jacobs_park": {
     "updated": "",
@@ -3396,7 +3674,8 @@
     ],
     "city": "San Diego",
     "state": "CA",
-    "venueName": "The Rady Shell at Jacobs Park"
+    "venueName": "The Rady Shell at Jacobs Park",
+    "guideUrl": "https://concerto-parking.netlify.app/theradyshellatjacobspark"
   },
   "the_tabernacle": {
     "updated": "",
@@ -3406,7 +3685,8 @@
     "lots": [],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "The Tabernacle"
+    "venueName": "The Tabernacle",
+    "guideUrl": "https://concerto-parking.netlify.app/thetabernacle"
   },
   "the_theatre_of_living_arts": {
     "updated": "",
@@ -3416,7 +3696,8 @@
     "lots": [],
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "The Theatre of Living Arts"
+    "venueName": "The Theatre of Living Arts",
+    "guideUrl": "https://concerto-parking.netlify.app/thetheatreoflivingarts"
   },
   "the_van_buren": {
     "updated": "",
@@ -3426,7 +3707,8 @@
     "lots": [],
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "The Van Buren"
+    "venueName": "The Van Buren",
+    "guideUrl": "https://concerto-parking.netlify.app/thevanburen"
   },
   "the_wiltern": {
     "updated": "",
@@ -3439,7 +3721,8 @@
     ],
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "The Wiltern"
+    "venueName": "The Wiltern",
+    "guideUrl": "https://concerto-parking.netlify.app/thewiltern"
   },
   "thunder_ridge_nature_arena": {
     "updated": "",
@@ -3454,7 +3737,8 @@
     ],
     "city": "Ridgedale",
     "state": "MO",
-    "venueName": "Thunder Ridge Nature Arena"
+    "venueName": "Thunder Ridge Nature Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/thunderridgenaturearena"
   },
   "tmobile_arena": {
     "updated": "",
@@ -3464,7 +3748,8 @@
     "lots": [],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "T-Mobile Arena"
+    "venueName": "T-Mobile Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/tmobilearena"
   },
   "tmobile_center": {
     "updated": "",
@@ -3478,7 +3763,8 @@
     ],
     "city": "Kansas City",
     "state": "MO",
-    "venueName": "T-Mobile Center"
+    "venueName": "T-Mobile Center",
+    "guideUrl": "https://concerto-parking.netlify.app/tmobilecenter"
   },
   "tmobile_park": {
     "updated": "",
@@ -3493,7 +3779,8 @@
     ],
     "city": "Seattle",
     "state": "WA",
-    "venueName": "T-Mobile Park"
+    "venueName": "T-Mobile Park",
+    "guideUrl": "https://concerto-parking.netlify.app/tmobilepark"
   },
   "talking_stick_resort_amphitheatre": {
     "updated": "",
@@ -3503,7 +3790,8 @@
     "lots": [],
     "city": "Phoenix",
     "state": "AZ",
-    "venueName": "Talking Stick Resort Amphitheatre"
+    "venueName": "Talking Stick Resort Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/talkingstickresortamphitheatre"
   },
   "tottenham_hotspur_stadium": {
     "updated": "",
@@ -3513,7 +3801,8 @@
     "lots": [],
     "city": "London",
     "state": "",
-    "venueName": "Tottenham Hotspur Stadium"
+    "venueName": "Tottenham Hotspur Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/tottenhamhotspurstadium"
   },
   "toyota_center": {
     "updated": "",
@@ -3525,7 +3814,8 @@
     ],
     "city": "Houston",
     "state": "TX",
-    "venueName": "Toyota Center"
+    "venueName": "Toyota Center",
+    "guideUrl": "https://concerto-parking.netlify.app/toyotacenter"
   },
   "truist_park": {
     "updated": "",
@@ -3544,7 +3834,8 @@
     ],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Truist Park"
+    "venueName": "Truist Park",
+    "guideUrl": "https://concerto-parking.netlify.app/truistpark"
   },
   "ubc_doug_mitchell_thunderbird_sports_centre": {
     "updated": "",
@@ -3557,7 +3848,8 @@
     ],
     "city": "Vancouver",
     "state": "BC",
-    "venueName": "UBC \u2013 Doug Mitchell Thunderbird Sports Centre"
+    "venueName": "UBC – Doug Mitchell Thunderbird Sports Centre",
+    "guideUrl": "https://concerto-parking.netlify.app/ubcdougmitchellthunderbirdsportscentre"
   },
   "ubs_arena": {
     "updated": "",
@@ -3573,7 +3865,8 @@
     ],
     "city": "Elmont",
     "state": "NY",
-    "venueName": "UBS Arena"
+    "venueName": "UBS Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/ubsarena"
   },
   "uc_berkeley_greek_theatre": {
     "updated": "",
@@ -3586,7 +3879,8 @@
     ],
     "city": "Berkeley",
     "state": "CA",
-    "venueName": "UC Berkeley Greek Theatre"
+    "venueName": "UC Berkeley Greek Theatre",
+    "guideUrl": "https://concerto-parking.netlify.app/ucberkeleygreektheatre"
   },
   "us_bank_stadium": {
     "updated": "",
@@ -3596,7 +3890,8 @@
     "lots": [],
     "city": "Minneapolis",
     "state": "MN",
-    "venueName": "U.S. Bank Stadium"
+    "venueName": "U.S. Bank Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/usbankstadium"
   },
   "unipol_arena": {
     "updated": "",
@@ -3606,19 +3901,21 @@
     "lots": [],
     "city": "Casalecchio di Reno",
     "state": "",
-    "venueName": "Unipol Arena"
+    "venueName": "Unipol Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/unipolarena"
   },
   "unipol_forum": {
     "updated": "",
     "officialParkingUrl": "https://www.unipolforum.it/en/parking/",
-    "note": "Unipol Forum offers ample parking near the venue, with Park B being a notable option. Electric car charging is available at a hub in front of the Repower Theatre. Parking fees during events start from \u20ac10.",
+    "note": "Unipol Forum offers ample parking near the venue, with Park B being a notable option. Electric car charging is available at a hub in front of the Repower Theatre. Parking fees during events start from €10.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "Park B"
     ],
     "city": "Assago",
     "state": "",
-    "venueName": "Unipol Forum"
+    "venueName": "Unipol Forum",
+    "guideUrl": "https://concerto-parking.netlify.app/unipolforum"
   },
   "united_center": {
     "updated": "",
@@ -3628,7 +3925,8 @@
     "lots": [],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "United Center"
+    "venueName": "United Center",
+    "guideUrl": "https://concerto-parking.netlify.app/unitedcenter"
   },
   "unity_arena": {
     "updated": "",
@@ -3638,7 +3936,8 @@
     "lots": [],
     "city": "Fornebu",
     "state": "",
-    "venueName": "Unity Arena"
+    "venueName": "Unity Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/unityarena"
   },
   "usher_hall": {
     "updated": "",
@@ -3648,7 +3947,8 @@
     "lots": [],
     "city": "Edinburgh",
     "state": "",
-    "venueName": "Usher Hall"
+    "venueName": "Usher Hall",
+    "guideUrl": "https://concerto-parking.netlify.app/usherhall"
   },
   "utah_first_credit_union_amphitheatre": {
     "updated": "",
@@ -3662,7 +3962,8 @@
     ],
     "city": "West Valley City",
     "state": "UT",
-    "venueName": "Utah First Credit Union Amphitheatre"
+    "venueName": "Utah First Credit Union Amphitheatre",
+    "guideUrl": "https://concerto-parking.netlify.app/utahfirstcreditunionamphitheatre"
   },
   "utilita_arena_birmingham": {
     "updated": "",
@@ -3676,7 +3977,8 @@
     ],
     "city": "Birmingham",
     "state": "",
-    "venueName": "Utilita Arena Birmingham"
+    "venueName": "Utilita Arena Birmingham",
+    "guideUrl": "https://concerto-parking.netlify.app/utilitaarenabirmingham"
   },
   "utilita_arena_newcastle": {
     "updated": "",
@@ -3689,7 +3991,8 @@
     ],
     "city": "Newcastle Upon Tyne",
     "state": "",
-    "venueName": "Utilita Arena Newcastle"
+    "venueName": "Utilita Arena Newcastle",
+    "guideUrl": "https://concerto-parking.netlify.app/utilitaarenanewcastle"
   },
   "utilita_arena_sheffield": {
     "updated": "",
@@ -3704,7 +4007,8 @@
     ],
     "city": "Sheffield",
     "state": "",
-    "venueName": "Utilita Arena Sheffield"
+    "venueName": "Utilita Arena Sheffield",
+    "guideUrl": "https://concerto-parking.netlify.app/utilitaarenasheffield"
   },
   "uw_panther_arena": {
     "updated": "",
@@ -3715,12 +4019,13 @@
       "Baird Center Garage",
       "330 W Wells St. Garage",
       "6th & State Lot",
-      "Isaac\u2019s Garage",
+      "Isaac’s Garage",
       "MATC Surface Lot"
     ],
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "UW \u2013 Panther Arena"
+    "venueName": "UW – Panther Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/uwpantherarena"
   },
   "van_andel_arena": {
     "updated": "",
@@ -3730,7 +4035,8 @@
     "lots": [],
     "city": "Grand Rapids",
     "state": "MI",
-    "venueName": "Van Andel Arena"
+    "venueName": "Van Andel Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/vanandelarena"
   },
   "veikkaus_arena": {
     "updated": "",
@@ -3740,7 +4046,8 @@
     "lots": [],
     "city": "Helsinki",
     "state": "",
-    "venueName": "Veikkaus Arena"
+    "venueName": "Veikkaus Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/veikkausarena"
   },
   "veterans_memorial_coliseum": {
     "updated": "",
@@ -3756,7 +4063,8 @@
     ],
     "city": "Portland",
     "state": "OR",
-    "venueName": "Veterans Memorial Coliseum"
+    "venueName": "Veterans Memorial Coliseum",
+    "guideUrl": "https://concerto-parking.netlify.app/veteransmemorialcoliseum"
   },
   "veterans_united_home_loans_amphitheater": {
     "updated": "",
@@ -3766,12 +4074,13 @@
     "lots": [],
     "city": "Virginia Beach",
     "state": "VA",
-    "venueName": "Veterans United Home Loans Amphitheater"
+    "venueName": "Veterans United Home Loans Amphitheater",
+    "guideUrl": "https://concerto-parking.netlify.app/veteransunitedhomeloansamphitheater"
   },
   "videotron_centre": {
     "updated": "",
     "officialParkingUrl": "https://www.lecentrevideotron.ca/en/getting-there",
-    "note": "Parking is accessible via Soumande St. and Avenue du Colis\u00e9e. Customers have free access to the P2B parking lot via Soumande St., except on event days when parking fees apply.",
+    "note": "Parking is accessible via Soumande St. and Avenue du Colisée. Customers have free access to the P2B parking lot via Soumande St., except on event days when parking fees apply.",
     "rideshare": "No specific rideshare notes available.",
     "lots": [
       "P2B",
@@ -3779,7 +4088,8 @@
     ],
     "city": "Quebec City",
     "state": "QC",
-    "venueName": "Videotron Centre"
+    "venueName": "Videotron Centre",
+    "guideUrl": "https://concerto-parking.netlify.app/videotroncentre"
   },
   "viejas_arena": {
     "updated": "",
@@ -3794,7 +4104,8 @@
     ],
     "city": "San Diego",
     "state": "CA",
-    "venueName": "Viejas Arena"
+    "venueName": "Viejas Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/viejasarena"
   },
   "villa_erba": {
     "updated": "",
@@ -3804,7 +4115,8 @@
     "lots": [],
     "city": "Cernobbio",
     "state": "",
-    "venueName": "Villa Erba"
+    "venueName": "Villa Erba",
+    "guideUrl": "https://concerto-parking.netlify.app/villaerba"
   },
   "wamu_theater": {
     "updated": "",
@@ -3816,7 +4128,8 @@
     ],
     "city": "Seattle",
     "state": "WA",
-    "venueName": "WAMU Theater"
+    "venueName": "WAMU Theater",
+    "guideUrl": "https://concerto-parking.netlify.app/wamutheater"
   },
   "walmart_amp": {
     "updated": "",
@@ -3826,7 +4139,8 @@
     "lots": [],
     "city": "Rogers",
     "state": "AR",
-    "venueName": "Walmart AMP"
+    "venueName": "Walmart AMP",
+    "guideUrl": "https://concerto-parking.netlify.app/walmartamp"
   },
   "wells_fargo_arena": {
     "updated": "",
@@ -3836,7 +4150,8 @@
     "lots": [],
     "city": "Des Moines",
     "state": "IA",
-    "venueName": "Wells Fargo Arena"
+    "venueName": "Wells Fargo Arena",
+    "guideUrl": "https://concerto-parking.netlify.app/wellsfargoarena"
   },
   "wells_fargo_center": {
     "updated": "",
@@ -3848,7 +4163,8 @@
     ],
     "city": "Philadelphia",
     "state": "PA",
-    "venueName": "Wells Fargo Center"
+    "venueName": "Wells Fargo Center",
+    "guideUrl": "https://concerto-parking.netlify.app/wellsfargocenter"
   },
   "wembley_stadium": {
     "updated": "",
@@ -3858,7 +4174,8 @@
     "lots": [],
     "city": "London",
     "state": "",
-    "venueName": "Wembley Stadium"
+    "venueName": "Wembley Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/wembleystadium"
   },
   "winstar_lucas_oil_live": {
     "updated": "",
@@ -3868,7 +4185,8 @@
     "lots": [],
     "city": "Thackerville",
     "state": "OK",
-    "venueName": "WinStar Lucas Oil Live"
+    "venueName": "WinStar Lucas Oil Live",
+    "guideUrl": "https://concerto-parking.netlify.app/winstarlucasoillive"
   },
   "wrigley_field": {
     "updated": "",
@@ -3878,7 +4196,8 @@
     "lots": [],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Wrigley Field"
+    "venueName": "Wrigley Field",
+    "guideUrl": "https://concerto-parking.netlify.app/wrigleyfield"
   },
   "xl_center": {
     "updated": "",
@@ -3890,7 +4209,8 @@
     ],
     "city": "Hartford",
     "state": "CT",
-    "venueName": "XL Center"
+    "venueName": "XL Center",
+    "guideUrl": "https://concerto-parking.netlify.app/xlcenter"
   },
   "xcel_energy_center": {
     "updated": "",
@@ -3903,7 +4223,8 @@
     ],
     "city": "St. Paul",
     "state": "MN",
-    "venueName": "Xcel Energy Center"
+    "venueName": "Xcel Energy Center",
+    "guideUrl": "https://concerto-parking.netlify.app/xcelenergycenter"
   },
   "yankee_stadium": {
     "updated": "",
@@ -3922,7 +4243,8 @@
     ],
     "city": "Bronx",
     "state": "NY",
-    "venueName": "Yankee Stadium"
+    "venueName": "Yankee Stadium",
+    "guideUrl": "https://concerto-parking.netlify.app/yankeestadium"
   },
   "coachella_valley_music_and_arts_festival": {
     "updated": "",
@@ -3932,7 +4254,8 @@
     "lots": [],
     "city": "Indio",
     "state": "CA",
-    "venueName": "Coachella Valley Music and Arts Festival"
+    "venueName": "Coachella Valley Music and Arts Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/coachellavalleymusicandartsfestival"
   },
   "stagecoach_festival": {
     "updated": "",
@@ -3942,7 +4265,8 @@
     "lots": [],
     "city": "Indio",
     "state": "CA",
-    "venueName": "Stagecoach Festival"
+    "venueName": "Stagecoach Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/stagecoachfestival"
   },
   "ultra_music_festival": {
     "updated": "",
@@ -3952,7 +4276,8 @@
     "lots": [],
     "city": "Miami",
     "state": "FL",
-    "venueName": "Ultra Music Festival"
+    "venueName": "Ultra Music Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/ultramusicfestival"
   },
   "edc_las_vegas": {
     "updated": "",
@@ -3966,7 +4291,8 @@
     ],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "EDC Las Vegas"
+    "venueName": "EDC Las Vegas",
+    "guideUrl": "https://concerto-parking.netlify.app/edclasvegas"
   },
   "electric_forest": {
     "updated": "",
@@ -3976,7 +4302,8 @@
     "lots": [],
     "city": "Rothbury",
     "state": "MI",
-    "venueName": "Electric Forest"
+    "venueName": "Electric Forest",
+    "guideUrl": "https://concerto-parking.netlify.app/electricforest"
   },
   "bonnaroo_music_arts_festival": {
     "updated": "",
@@ -3986,7 +4313,8 @@
     "lots": [],
     "city": "Manchester",
     "state": "TN",
-    "venueName": "Bonnaroo Music & Arts Festival"
+    "venueName": "Bonnaroo Music & Arts Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/bonnaroomusicartsfestival"
   },
   "governors_ball": {
     "updated": "June 9, 2023 at 12:35 pm",
@@ -3996,7 +4324,8 @@
     "lots": [],
     "city": "New York",
     "state": "NY",
-    "venueName": "Governors Ball"
+    "venueName": "Governors Ball",
+    "guideUrl": "https://concerto-parking.netlify.app/governorsball"
   },
   "boston_calling": {
     "updated": "",
@@ -4006,7 +4335,8 @@
     "lots": [],
     "city": "Boston",
     "state": "MA",
-    "venueName": "Boston Calling"
+    "venueName": "Boston Calling",
+    "guideUrl": "https://concerto-parking.netlify.app/bostoncalling"
   },
   "bottlerock_napa_valley": {
     "updated": "",
@@ -4016,7 +4346,8 @@
     "lots": [],
     "city": "Napa",
     "state": "CA",
-    "venueName": "BottleRock Napa Valley"
+    "venueName": "BottleRock Napa Valley",
+    "guideUrl": "https://concerto-parking.netlify.app/bottlerocknapavalley"
   },
   "hangout_music_festival": {
     "updated": "",
@@ -4026,7 +4357,8 @@
     "lots": [],
     "city": "Gulf Shores",
     "state": "AL",
-    "venueName": "Hangout Music Festival"
+    "venueName": "Hangout Music Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/hangoutmusicfestival"
   },
   "outside_lands": {
     "updated": "",
@@ -4036,7 +4368,8 @@
     "lots": [],
     "city": "San Francisco",
     "state": "CA",
-    "venueName": "Outside Lands"
+    "venueName": "Outside Lands",
+    "guideUrl": "https://concerto-parking.netlify.app/outsidelands"
   },
   "lollapalooza": {
     "updated": "",
@@ -4046,7 +4379,8 @@
     "lots": [],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Lollapalooza"
+    "venueName": "Lollapalooza",
+    "guideUrl": "https://concerto-parking.netlify.app/lollapalooza"
   },
   "rolling_loud_miami": {
     "updated": "2026-01-15T15:24:16-04:00",
@@ -4059,7 +4393,8 @@
     ],
     "city": "Miami Gardens",
     "state": "FL",
-    "venueName": "Rolling Loud Miami"
+    "venueName": "Rolling Loud Miami",
+    "guideUrl": "https://concerto-parking.netlify.app/rollingloudmiami"
   },
   "rolling_loud_los_angeles": {
     "updated": "",
@@ -4069,7 +4404,8 @@
     "lots": [],
     "city": "Inglewood",
     "state": "CA",
-    "venueName": "Rolling Loud Los Angeles"
+    "venueName": "Rolling Loud Los Angeles",
+    "guideUrl": "https://concerto-parking.netlify.app/rollingloudlosangeles"
   },
   "summerfest": {
     "updated": "",
@@ -4083,7 +4419,8 @@
     ],
     "city": "Milwaukee",
     "state": "WI",
-    "venueName": "Summerfest"
+    "venueName": "Summerfest",
+    "guideUrl": "https://concerto-parking.netlify.app/summerfest"
   },
   "pitchfork_music_festival": {
     "updated": "",
@@ -4093,7 +4430,8 @@
     "lots": [],
     "city": "Chicago",
     "state": "IL",
-    "venueName": "Pitchfork Music Festival"
+    "venueName": "Pitchfork Music Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/pitchforkmusicfestival"
   },
   "new_orleans_jazz_heritage_festival": {
     "updated": "",
@@ -4103,7 +4441,8 @@
     "lots": [],
     "city": "New Orleans",
     "state": "LA",
-    "venueName": "New Orleans Jazz & Heritage Festival"
+    "venueName": "New Orleans Jazz & Heritage Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/neworleansjazzheritagefestival"
   },
   "newport_folk_festival": {
     "updated": "",
@@ -4113,7 +4452,8 @@
     "lots": [],
     "city": "Newport",
     "state": "RI",
-    "venueName": "Newport Folk Festival"
+    "venueName": "Newport Folk Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/newportfolkfestival"
   },
   "newport_jazz_festival": {
     "updated": "",
@@ -4123,7 +4463,8 @@
     "lots": [],
     "city": "Newport",
     "state": "RI",
-    "venueName": "Newport Jazz Festival"
+    "venueName": "Newport Jazz Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/newportjazzfestival"
   },
   "austin_city_limits_music_festival": {
     "updated": "",
@@ -4133,7 +4474,8 @@
     "lots": [],
     "city": "Austin",
     "state": "TX",
-    "venueName": "Austin City Limits Music Festival"
+    "venueName": "Austin City Limits Music Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/austincitylimitsmusicfestival"
   },
   "when_we_were_young": {
     "updated": "",
@@ -4143,7 +4485,8 @@
     "lots": [],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "When We Were Young"
+    "venueName": "When We Were Young",
+    "guideUrl": "https://concerto-parking.netlify.app/whenwewereyoung"
   },
   "life_is_beautiful": {
     "updated": "",
@@ -4153,7 +4496,8 @@
     "lots": [],
     "city": "Las Vegas",
     "state": "NV",
-    "venueName": "Life Is Beautiful"
+    "venueName": "Life Is Beautiful",
+    "guideUrl": "https://concerto-parking.netlify.app/lifeisbeautiful"
   },
   "lightning_in_a_bottle": {
     "updated": "",
@@ -4163,7 +4507,8 @@
     "lots": [],
     "city": "Bakersfield",
     "state": "CA",
-    "venueName": "Lightning in a Bottle"
+    "venueName": "Lightning in a Bottle",
+    "guideUrl": "https://concerto-parking.netlify.app/lightninginabottle"
   },
   "shaky_knees_music_festival": {
     "updated": "",
@@ -4173,7 +4518,8 @@
     "lots": [],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Shaky Knees Music Festival"
+    "venueName": "Shaky Knees Music Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/shakykneesmusicfestival"
   },
   "music_midtown": {
     "updated": "",
@@ -4185,7 +4531,8 @@
     ],
     "city": "Atlanta",
     "state": "GA",
-    "venueName": "Music Midtown"
+    "venueName": "Music Midtown",
+    "guideUrl": "https://concerto-parking.netlify.app/musicmidtown"
   },
   "iii_points": {
     "updated": "",
@@ -4195,7 +4542,8 @@
     "lots": [],
     "city": "Miami",
     "state": "FL",
-    "venueName": "III Points"
+    "venueName": "III Points",
+    "guideUrl": "https://concerto-parking.netlify.app/iiipoints"
   },
   "hard_summer_music_festival": {
     "updated": "",
@@ -4205,7 +4553,8 @@
     "lots": [],
     "city": "Los Angeles",
     "state": "CA",
-    "venueName": "HARD Summer Music Festival"
+    "venueName": "HARD Summer Music Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/hardsummermusicfestival"
   },
   "beyond_wonderland_socal": {
     "updated": "",
@@ -4215,7 +4564,8 @@
     "lots": [],
     "city": "San Bernardino",
     "state": "CA",
-    "venueName": "Beyond Wonderland SoCal"
+    "venueName": "Beyond Wonderland SoCal",
+    "guideUrl": "https://concerto-parking.netlify.app/beyondwonderlandsocal"
   },
   "moonrise_festival": {
     "updated": "",
@@ -4225,7 +4575,8 @@
     "lots": [],
     "city": "Baltimore",
     "state": "MD",
-    "venueName": "Moonrise Festival"
+    "venueName": "Moonrise Festival",
+    "guideUrl": "https://concerto-parking.netlify.app/moonrisefestival"
   },
   "country_thunder_wisconsin": {
     "updated": "",
@@ -4235,7 +4586,8 @@
     "lots": [],
     "city": "Twin Lakes",
     "state": "WI",
-    "venueName": "Country Thunder Wisconsin"
+    "venueName": "Country Thunder Wisconsin",
+    "guideUrl": "https://concerto-parking.netlify.app/countrythunderwisconsin"
   },
   "burning_man": {
     "updated": "",
@@ -4245,104 +4597,5 @@
     "lots": [],
     "city": "Black Rock Desert",
     "state": "NV",
-    "venueName": "Burning Man"
-  },
-  "electric_zoo": {
-    "updated": "",
-    "officialParkingUrl": "https://centralparkzoo.com/map",
-    "note": "",
-    "rideshare": "No specific rideshare notes available.",
-    "lots": [],
-    "city": "New York",
-    "state": "NY",
-    "venueName": "Electric Zoo"
-  },
-  "riot_fest": {
-    "updated": "",
-    "officialParkingUrl": "https://www.tasteofrivernorth.com/",
-    "note": "No specific parking options, pricing, or tips are mentioned on the provided page. Attendees are encouraged to check local parking facilities or use public transportation.",
-    "rideshare": "No specific rideshare notes available.",
-    "lots": [],
-    "city": "Chicago",
-    "state": "IL",
-    "venueName": "Riot Fest"
-  },
-  "essence_festival_of_culture": {
-    "updated": "",
-    "officialParkingUrl": "https://mccno.com/visitors/getting-here/",
-    "note": "Ample parking is available at the Convention Center for a daily fee, but overnight parking is prohibited. ADA parking is available, and specific needs can be addressed via email.",
-    "rideshare": "If arriving or departing by taxi or rideshare, use the designated Taxi/Rideshare Zone.",
-    "lots": [],
-    "city": "New Orleans",
-    "state": "LA",
-    "venueName": "Essence Festival of Culture"
-  },
-  "sxsw_music_film_interactive": {
-    "updated": "",
-    "officialParkingUrl": "https://www.sxsw.com/hotels/getting-around/",
-    "note": "Driving and parking in downtown Austin during SXSW can be expensive and time-consuming due to street closures and increased traffic. It is recommended to use alternative transportation options like walking, shuttles, or rideshares.",
-    "rideshare": "No specific rideshare notes available.",
-    "lots": [],
-    "city": "Austin",
-    "state": "TX",
-    "venueName": "SXSW (Music, Film & Interactive)"
-  },
-  "cma_fest": {
-    "updated": "",
-    "officialParkingUrl": "https://cmafest.com/transportation/",
-    "note": "Festival organizers encourage the use of rideshare, SpotHero, or public parking options. Reserve parking in advance through SpotHero for convenience and affordability.",
-    "rideshare": "No specific rideshare notes available.",
-    "lots": [],
-    "city": "Nashville",
-    "state": "TN",
-    "venueName": "CMA Fest"
-  },
-  "made_in_america": {
-    "updated": "",
-    "officialParkingUrl": "https://constitutioncenter.org/museum/visit/directions",
-    "note": "Parking is available at the National Constitution Center's parking garage, accessible from Race Street. Pricing details are not provided, so checking on arrival is recommended.",
-    "rideshare": "No specific rideshare notes available.",
-    "lots": [
-      "National Constitution Center parking garage"
-    ],
-    "city": "Philadelphia",
-    "state": "PA",
-    "venueName": "Made in America"
-  },
-  "radio_city_music_hall": {
-    "updated": "",
-    "officialParkingUrl": "https://www.msg.com/plan-your-visit/visit-madison-square-garden",
-    "note": "",
-    "rideshare": "No specific rideshare notes available.",
-    "lots": [],
-    "city": "New York",
-    "state": "NY",
-    "venueName": "Radio City Music Hall"
-  },
-  "the_gorge_amphitheatre": {
-    "updated": "",
-    "officialParkingUrl": "https://www.gorgeamphitheatre.com/visit",
-    "note": "General admission parking is included with your ticket. For easier entry and exit, consider upgrading to Reserved Parking, Star Parking, or Star Parking Plus. Arrive early to avoid heavy traffic and long wait times.",
-    "rideshare": "No specific rideshare notes available.",
-    "lots": [
-      "Oasis Campers",
-      "The Grove RV Park",
-      "Day Parking",
-      "Star Parking",
-      "Star Plus Parking",
-      "Accessible Parking",
-      "Big Rig Campers",
-      "Plaza Parking",
-      "Tent Only",
-      "RV Camping",
-      "The Terraces",
-      "Gold Campers",
-      "Standard",
-      "Terrace",
-      "Premier Campers"
-    ],
-    "city": "George",
-    "state": "WA",
-    "venueName": "The Gorge Amphitheatre"
-  }
-}
+    "venueName": "Burning Man",
+    "guideUrl": "https://concerto-
